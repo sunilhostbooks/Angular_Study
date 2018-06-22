@@ -1,0 +1,65 @@
+PLAIN
+K 4
+node
+V 21
+dir 26-4.0.r4/5430226
+END
+ENDREP
+id: 1-4.0.r5/53
+type: dir
+pred: 1-4.0.r4/5430459
+count: 1
+text: 5 0 40 40 e4675e935d56cc0f47a432c6ec045b0b
+cpath: /trunk/01-6-2018
+copyroot: 0 /
+
+PLAIN
+K 9
+01-6-2018
+V 15
+dir 1-4.0.r5/53
+K 9
+18-5-2018
+V 19
+dir 1-2.0.r2/264548
+K 9
+25-5-2018
+V 20
+dir 1-3.0.r3/1297562
+END
+ENDREP
+id: 0-1.0.r5/330
+type: dir
+pred: 0-1.0.r4/5430729
+count: 4
+text: 5 199 118 118 3e39f2b0bf1db909148c3330f519be06
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 2-1.0.r1/0
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r5/330
+END
+ENDREP
+id: 0.0.r5/583
+type: dir
+pred: 0.0.r4/5430994
+count: 5
+text: 5 471 99 99 c9f58da5f14be712f07193ecf6c5b24f
+cpath: /
+copyroot: 0 /
+
+3-4.0.r4/5289089 delete-dir false false false /trunk/01-6-2018/getpost
+
+
+583 713

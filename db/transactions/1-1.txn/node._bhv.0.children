@@ -1,0 +1,29 @@
+END
+K 10
+.npmignore
+V 16
+file _bhw.0.t1-1
+K 9
+.zuul.yml
+V 16
+file _bhz.0.t1-1
+K 8
+Makefile
+V 16
+file _bi1.0.t1-1
+K 9
+README.md
+V 16
+file _bi3.0.t1-1
+K 8
+index.js
+V 16
+file _bi5.0.t1-1
+K 12
+package.json
+V 16
+file _bi7.0.t1-1
+K 4
+test
+V 15
+dir _bi9.0.t1-1

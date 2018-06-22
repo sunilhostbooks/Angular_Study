@@ -1,0 +1,21 @@
+END
+K 7
+LICENSE
+V 16
+file _a2m.0.t1-1
+K 9
+README.md
+V 16
+file _a2p.0.t1-1
+K 11
+amdefine.js
+V 16
+file _a2r.0.t1-1
+K 12
+intercept.js
+V 16
+file _a2t.0.t1-1
+K 12
+package.json
+V 16
+file _a2v.0.t1-1

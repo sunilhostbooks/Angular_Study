@@ -1,0 +1,125 @@
+END
+K 26
+INITIAL_COMMIT_MESSAGE.txt
+V 15
+file _x0.0.t1-1
+K 22
+bundle-calculator.d.ts
+V 15
+file _x3.0.t1-1
+K 20
+bundle-calculator.js
+V 15
+file _x5.0.t1-1
+K 24
+bundle-calculator.js.map
+V 15
+file _x7.0.t1-1
+K 26
+check-package-manager.d.ts
+V 15
+file _x9.0.t1-1
+K 24
+check-package-manager.js
+V 15
+file _xb.0.t1-1
+K 28
+check-package-manager.js.map
+V 15
+file _xd.0.t1-1
+K 11
+config.d.ts
+V 15
+file _xf.0.t1-1
+K 9
+config.js
+V 15
+file _xh.0.t1-1
+K 13
+config.js.map
+V 15
+file _xj.0.t1-1
+K 12
+find-up.d.ts
+V 15
+file _xl.0.t1-1
+K 10
+find-up.js
+V 15
+file _xn.0.t1-1
+K 14
+find-up.js.map
+V 15
+file _xp.0.t1-1
+K 17
+is-directory.d.ts
+V 15
+file _xr.0.t1-1
+K 15
+is-directory.js
+V 15
+file _xt.0.t1-1
+K 19
+is-directory.js.map
+V 15
+file _xv.0.t1-1
+K 12
+project.d.ts
+V 15
+file _xx.0.t1-1
+K 10
+project.js
+V 15
+file _xz.0.t1-1
+K 14
+project.js.map
+V 15
+file _y1.0.t1-1
+K 27
+require-project-module.d.ts
+V 15
+file _y3.0.t1-1
+K 25
+require-project-module.js
+V 15
+file _y5.0.t1-1
+K 29
+require-project-module.js.map
+V 15
+file _y7.0.t1-1
+K 15
+schematics.d.ts
+V 15
+file _y9.0.t1-1
+K 13
+schematics.js
+V 15
+file _yb.0.t1-1
+K 17
+schematics.js.map
+V 15
+file _yd.0.t1-1
+K 14
+strip-bom.d.ts
+V 15
+file _yf.0.t1-1
+K 12
+strip-bom.js
+V 15
+file _yh.0.t1-1
+K 16
+strip-bom.js.map
+V 15
+file _yj.0.t1-1
+K 26
+validate-project-name.d.ts
+V 15
+file _yl.0.t1-1
+K 24
+validate-project-name.js
+V 15
+file _yn.0.t1-1
+K 28
+validate-project-name.js.map
+V 15
+file _yp.0.t1-1

@@ -1,0 +1,57 @@
+END
+K 7
+LICENSE
+V 16
+file _9d6.0.t1-1
+K 9
+README.md
+V 16
+file _9d9.0.t1-1
+K 11
+chrome.d.ts
+V 16
+file _9db.0.t1-1
+K 9
+edge.d.ts
+V 16
+file _9dd.0.t1-1
+K 14
+executors.d.ts
+V 16
+file _9df.0.t1-1
+K 12
+firefox.d.ts
+V 16
+file _9dh.0.t1-1
+K 9
+http.d.ts
+V 16
+file _9dj.0.t1-1
+K 7
+ie.d.ts
+V 16
+file _9dl.0.t1-1
+K 10
+index.d.ts
+V 16
+file _9dn.0.t1-1
+K 10
+opera.d.ts
+V 16
+file _9dp.0.t1-1
+K 12
+package.json
+V 16
+file _9dr.0.t1-1
+K 11
+remote.d.ts
+V 16
+file _9dt.0.t1-1
+K 11
+safari.d.ts
+V 16
+file _9dv.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _9dx.0.t1-1

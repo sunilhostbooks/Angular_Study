@@ -1,0 +1,41 @@
+END
+K 4
+core
+V 15
+dir _f2w.0.t1-1
+K 3
+es5
+V 15
+dir _f3h.0.t1-1
+K 3
+es6
+V 15
+dir _f3l.0.t1-1
+K 3
+es7
+V 15
+dir _f4p.0.t1-1
+K 2
+fn
+V 15
+dir _f5p.0.t1-1
+K 8
+index.js
+V 16
+file _fop.0.t1-1
+K 7
+modules
+V 15
+dir _for.0.t1-1
+K 7
+shim.js
+V 16
+file _g7p.0.t1-1
+K 5
+stage
+V 15
+dir _g7r.0.t1-1
+K 3
+web
+V 15
+dir _g87.0.t1-1

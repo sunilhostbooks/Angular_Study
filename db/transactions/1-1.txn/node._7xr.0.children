@@ -1,0 +1,21 @@
+END
+K 9
+architect
+V 15
+dir _7xs.0.t1-1
+K 13
+build-angular
+V 15
+dir _7yx.0.t1-1
+K 15
+build-optimizer
+V 15
+dir _86z.0.t1-1
+K 4
+core
+V 15
+dir _8el.0.t1-1
+K 10
+schematics
+V 15
+dir _8lf.0.t1-1

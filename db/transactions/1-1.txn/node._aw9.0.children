@@ -1,0 +1,85 @@
+END
+K 8
+acosh.js
+V 16
+file _awa.0.t1-1
+K 8
+asinh.js
+V 16
+file _awd.0.t1-1
+K 8
+atanh.js
+V 16
+file _awf.0.t1-1
+K 7
+cbrt.js
+V 16
+file _awh.0.t1-1
+K 8
+clz32.js
+V 16
+file _awj.0.t1-1
+K 7
+cosh.js
+V 16
+file _awl.0.t1-1
+K 8
+expm1.js
+V 16
+file _awn.0.t1-1
+K 9
+fround.js
+V 16
+file _awp.0.t1-1
+K 8
+hypot.js
+V 16
+file _awr.0.t1-1
+K 8
+iaddh.js
+V 16
+file _awt.0.t1-1
+K 7
+imul.js
+V 16
+file _awv.0.t1-1
+K 8
+imulh.js
+V 16
+file _awx.0.t1-1
+K 8
+isubh.js
+V 16
+file _awz.0.t1-1
+K 8
+log10.js
+V 16
+file _ax1.0.t1-1
+K 8
+log1p.js
+V 16
+file _ax3.0.t1-1
+K 7
+log2.js
+V 16
+file _ax5.0.t1-1
+K 7
+sign.js
+V 16
+file _ax7.0.t1-1
+K 7
+sinh.js
+V 16
+file _ax9.0.t1-1
+K 7
+tanh.js
+V 16
+file _axb.0.t1-1
+K 8
+trunc.js
+V 16
+file _axd.0.t1-1
+K 8
+umulh.js
+V 16
+file _axf.0.t1-1

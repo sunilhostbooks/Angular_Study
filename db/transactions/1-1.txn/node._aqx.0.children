@@ -1,0 +1,25 @@
+END
+K 10
+.npmignore
+V 16
+file _aqy.0.t1-1
+K 9
+README.md
+V 16
+file _ar1.0.t1-1
+K 3
+lib
+V 15
+dir _ar3.0.t1-1
+K 12
+node_modules
+V 15
+dir _ar7.0.t1-1
+K 17
+package-lock.json
+V 16
+file _as3.0.t1-1
+K 12
+package.json
+V 16
+file _as5.0.t1-1

@@ -1,0 +1,33 @@
+END
+K 6
+assets
+V 15
+dir _8zc.0.t1-1
+K 12
+environments
+V 15
+dir _8zh.0.t1-1
+K 11
+favicon.ico
+V 16
+file _8zn.0.t1-1
+K 10
+index.html
+V 16
+file _8zp.0.t1-1
+K 7
+main.ts
+V 16
+file _8zr.0.t1-1
+K 12
+polyfills.ts
+V 16
+file _8zt.0.t1-1
+K 16
+styles.__style__
+V 16
+file _8zv.0.t1-1
+K 7
+test.ts
+V 16
+file _8zx.0.t1-1

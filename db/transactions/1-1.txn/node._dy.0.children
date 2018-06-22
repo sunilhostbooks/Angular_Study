@@ -1,0 +1,61 @@
+END
+K 9
+README.md
+V 15
+file _e0.0.t1-1
+K 15
+animations.d.ts
+V 15
+file _e3.0.t1-1
+K 24
+animations.metadata.json
+V 15
+file _e5.0.t1-1
+K 7
+browser
+V 14
+dir _e7.0.t1-1
+K 12
+browser.d.ts
+V 15
+file _h3.0.t1-1
+K 21
+browser.metadata.json
+V 15
+file _h5.0.t1-1
+K 7
+bundles
+V 14
+dir _h7.0.t1-1
+K 7
+esm2015
+V 14
+dir _hx.0.t1-1
+K 4
+esm5
+V 14
+dir _lh.0.t1-1
+K 8
+fesm2015
+V 14
+dir _ov.0.t1-1
+K 5
+fesm5
+V 14
+dir _pb.0.t1-1
+K 10
+index.d.ts
+V 15
+file _pr.0.t1-1
+K 12
+package.json
+V 15
+file _pt.0.t1-1
+K 15
+public_api.d.ts
+V 15
+file _pv.0.t1-1
+K 3
+src
+V 14
+dir _px.0.t1-1

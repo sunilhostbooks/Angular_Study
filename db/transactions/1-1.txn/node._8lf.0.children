@@ -1,0 +1,33 @@
+END
+K 7
+LICENSE
+V 16
+file _8lg.0.t1-1
+K 9
+README.md
+V 16
+file _8lj.0.t1-1
+K 22
+collection-schema.json
+V 16
+file _8ll.0.t1-1
+K 12
+package.json
+V 16
+file _8ln.0.t1-1
+K 3
+src
+V 15
+dir _8lp.0.t1-1
+K 5
+tasks
+V 15
+dir _8qh.0.t1-1
+K 7
+testing
+V 15
+dir _8sx.0.t1-1
+K 5
+tools
+V 15
+dir _8t7.0.t1-1

@@ -1,0 +1,33 @@
+END
+K 11
+.travis.yml
+V 16
+file _dik.0.t1-1
+K 10
+CHANGES.md
+V 16
+file _din.0.t1-1
+K 11
+LICENSE.txt
+V 16
+file _dip.0.t1-1
+K 8
+Makefile
+V 16
+file _dir.0.t1-1
+K 9
+README.md
+V 16
+file _dit.0.t1-1
+K 3
+lib
+V 15
+dir _div.0.t1-1
+K 12
+package.json
+V 16
+file _diz.0.t1-1
+K 9
+yarn.lock
+V 16
+file _dj1.0.t1-1

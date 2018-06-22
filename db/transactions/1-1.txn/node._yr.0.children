@@ -1,0 +1,77 @@
+END
+K 9
+README.md
+V 15
+file _ys.0.t1-1
+K 7
+bundles
+V 14
+dir _yv.0.t1-1
+K 11
+common.d.ts
+V 15
+file _zt.0.t1-1
+K 20
+common.metadata.json
+V 15
+file _zv.0.t1-1
+K 7
+esm2015
+V 14
+dir _zx.0.t1-1
+K 4
+esm5
+V 15
+dir _14v.0.t1-1
+K 8
+fesm2015
+V 15
+dir _19l.0.t1-1
+K 5
+fesm5
+V 15
+dir _1a5.0.t1-1
+K 4
+http
+V 15
+dir _1ap.0.t1-1
+K 9
+http.d.ts
+V 16
+file _1cf.0.t1-1
+K 18
+http.metadata.json
+V 16
+file _1ch.0.t1-1
+K 10
+index.d.ts
+V 16
+file _1cj.0.t1-1
+K 7
+locales
+V 15
+dir _1cl.0.t1-1
+K 12
+package.json
+V 16
+file _4l7.0.t1-1
+K 15
+public_api.d.ts
+V 16
+file _4l9.0.t1-1
+K 3
+src
+V 15
+dir _4lb.0.t1-1
+K 7
+testing
+V 15
+dir _4nz.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _4oj.0.t1-1
+K 21
+testing.metadata.json
+V 16
+file _4ol.0.t1-1

@@ -1,0 +1,121 @@
+END
+K 8
+acosh.js
+V 16
+file _epg.0.t1-1
+K 8
+asinh.js
+V 16
+file _epj.0.t1-1
+K 8
+atanh.js
+V 16
+file _epl.0.t1-1
+K 7
+cbrt.js
+V 16
+file _epn.0.t1-1
+K 8
+clamp.js
+V 16
+file _epp.0.t1-1
+K 8
+clz32.js
+V 16
+file _epr.0.t1-1
+K 7
+cosh.js
+V 16
+file _ept.0.t1-1
+K 14
+deg-per-rad.js
+V 16
+file _epv.0.t1-1
+K 10
+degrees.js
+V 16
+file _epx.0.t1-1
+K 8
+expm1.js
+V 16
+file _epz.0.t1-1
+K 9
+fround.js
+V 16
+file _eq1.0.t1-1
+K 9
+fscale.js
+V 16
+file _eq3.0.t1-1
+K 8
+hypot.js
+V 16
+file _eq5.0.t1-1
+K 8
+iaddh.js
+V 16
+file _eq7.0.t1-1
+K 7
+imul.js
+V 16
+file _eq9.0.t1-1
+K 8
+imulh.js
+V 16
+file _eqb.0.t1-1
+K 8
+index.js
+V 16
+file _eqd.0.t1-1
+K 8
+isubh.js
+V 16
+file _eqf.0.t1-1
+K 8
+log10.js
+V 16
+file _eqh.0.t1-1
+K 8
+log1p.js
+V 16
+file _eqj.0.t1-1
+K 7
+log2.js
+V 16
+file _eql.0.t1-1
+K 14
+rad-per-deg.js
+V 16
+file _eqn.0.t1-1
+K 10
+radians.js
+V 16
+file _eqp.0.t1-1
+K 8
+scale.js
+V 16
+file _eqr.0.t1-1
+K 7
+sign.js
+V 16
+file _eqt.0.t1-1
+K 10
+signbit.js
+V 16
+file _eqv.0.t1-1
+K 7
+sinh.js
+V 16
+file _eqx.0.t1-1
+K 7
+tanh.js
+V 16
+file _eqz.0.t1-1
+K 8
+trunc.js
+V 16
+file _er1.0.t1-1
+K 8
+umulh.js
+V 16
+file _er3.0.t1-1

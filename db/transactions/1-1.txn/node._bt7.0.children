@@ -1,0 +1,37 @@
+END
+K 10
+.npmignore
+V 16
+file _bt8.0.t1-1
+K 11
+.travis.yml
+V 16
+file _btb.0.t1-1
+K 15
+CONTRIBUTING.md
+V 16
+file _btd.0.t1-1
+K 7
+LICENSE
+V 16
+file _btf.0.t1-1
+K 9
+README.md
+V 16
+file _bth.0.t1-1
+K 6
+images
+V 15
+dir _btj.0.t1-1
+K 3
+lib
+V 15
+dir _btn.0.t1-1
+K 12
+package.json
+V 16
+file _btr.0.t1-1
+K 4
+test
+V 15
+dir _btt.0.t1-1

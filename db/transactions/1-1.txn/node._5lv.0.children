@@ -1,0 +1,53 @@
+END
+K 8
+anymatch
+V 15
+dir _5lw.0.t1-1
+K 8
+arr-diff
+V 15
+dir _5m7.0.t1-1
+K 12
+array-unique
+V 15
+dir _5mh.0.t1-1
+K 6
+braces
+V 15
+dir _5mr.0.t1-1
+K 8
+chokidar
+V 15
+dir _5n1.0.t1-1
+K 15
+expand-brackets
+V 15
+dir _5nh.0.t1-1
+K 7
+extglob
+V 15
+dir _5nr.0.t1-1
+K 11
+glob-parent
+V 15
+dir _5o1.0.t1-1
+K 10
+is-extglob
+V 15
+dir _5oh.0.t1-1
+K 7
+is-glob
+V 15
+dir _5or.0.t1-1
+K 7
+kind-of
+V 15
+dir _5p1.0.t1-1
+K 10
+micromatch
+V 15
+dir _5pb.0.t1-1
+K 8
+minimist
+V 15
+dir _5pv.0.t1-1

@@ -1,0 +1,37 @@
+END
+K 10
+.npmignore
+V 16
+file _bys.0.t1-1
+K 11
+.travis.yml
+V 16
+file _byv.0.t1-1
+K 7
+LICENSE
+V 16
+file _byx.0.t1-1
+K 9
+README.md
+V 16
+file _byz.0.t1-1
+K 13
+karma.conf.js
+V 16
+file _bz1.0.t1-1
+K 3
+lib
+V 15
+dir _bz3.0.t1-1
+K 12
+package.json
+V 16
+file _bz9.0.t1-1
+K 3
+src
+V 15
+dir _bzb.0.t1-1
+K 9
+yarn.lock
+V 16
+file _bzh.0.t1-1

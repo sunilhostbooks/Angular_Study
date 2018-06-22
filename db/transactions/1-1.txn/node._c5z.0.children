@@ -1,0 +1,61 @@
+END
+K 12
+CHANGELOG.md
+V 16
+file _c60.0.t1-1
+K 10
+LICENSE.md
+V 16
+file _c63.0.t1-1
+K 12
+README.es.md
+V 16
+file _c65.0.t1-1
+K 9
+README.md
+V 16
+file _c67.0.t1-1
+K 5
+en.js
+V 16
+file _c69.0.t1-1
+K 5
+es.js
+V 16
+file _c6b.0.t1-1
+K 6
+get.js
+V 16
+file _c6d.0.t1-1
+K 8
+index.js
+V 16
+file _c6f.0.t1-1
+K 3
+lib
+V 15
+dir _c6h.0.t1-1
+K 7
+locales
+V 15
+dir _c7b.0.t1-1
+K 5
+ls.js
+V 16
+file _c7l.0.t1-1
+K 12
+package.json
+V 16
+file _c7n.0.t1-1
+K 6
+put.js
+V 16
+file _c7p.0.t1-1
+K 5
+rm.js
+V 16
+file _c7r.0.t1-1
+K 9
+verify.js
+V 16
+file _c7t.0.t1-1

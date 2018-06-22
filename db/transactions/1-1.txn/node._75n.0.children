@@ -1,0 +1,73 @@
+END
+K 9
+README.md
+V 16
+file _75o.0.t1-1
+K 10
+animations
+V 15
+dir _75r.0.t1-1
+K 15
+animations.d.ts
+V 16
+file _76h.0.t1-1
+K 24
+animations.metadata.json
+V 16
+file _76j.0.t1-1
+K 7
+bundles
+V 15
+dir _76l.0.t1-1
+K 7
+esm2015
+V 15
+dir _77b.0.t1-1
+K 4
+esm5
+V 15
+dir _7at.0.t1-1
+K 8
+fesm2015
+V 15
+dir _7e5.0.t1-1
+K 5
+fesm5
+V 15
+dir _7ej.0.t1-1
+K 10
+index.d.ts
+V 16
+file _7ex.0.t1-1
+K 12
+package.json
+V 16
+file _7ez.0.t1-1
+K 21
+platform-browser.d.ts
+V 16
+file _7f1.0.t1-1
+K 30
+platform-browser.metadata.json
+V 16
+file _7f3.0.t1-1
+K 15
+public_api.d.ts
+V 16
+file _7f5.0.t1-1
+K 3
+src
+V 15
+dir _7f7.0.t1-1
+K 7
+testing
+V 15
+dir _7h7.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _7ht.0.t1-1
+K 21
+testing.metadata.json
+V 16
+file _7hv.0.t1-1

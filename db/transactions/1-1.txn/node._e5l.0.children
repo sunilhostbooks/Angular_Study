@@ -1,0 +1,41 @@
+END
+K 13
+.editorconfig
+V 16
+file _e5m.0.t1-1
+K 11
+.travis.yml
+V 16
+file _e5p.0.t1-1
+K 12
+CHANGELOG.md
+V 16
+file _e5r.0.t1-1
+K 7
+LICENSE
+V 16
+file _e5t.0.t1-1
+K 9
+README.md
+V 16
+file _e5v.0.t1-1
+K 10
+bower.json
+V 16
+file _e5x.0.t1-1
+K 10
+index.d.ts
+V 16
+file _e5z.0.t1-1
+K 8
+index.js
+V 16
+file _e61.0.t1-1
+K 12
+package.json
+V 16
+file _e63.0.t1-1
+K 4
+test
+V 15
+dir _e65.0.t1-1

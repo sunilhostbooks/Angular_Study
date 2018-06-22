@@ -1,0 +1,89 @@
+END
+K 7
+LICENSE
+V 16
+file _8ye.0.t1-1
+K 9
+app-shell
+V 15
+dir _8yh.0.t1-1
+K 11
+application
+V 15
+dir _8yr.0.t1-1
+K 5
+class
+V 15
+dir _90h.0.t1-1
+K 15
+collection.json
+V 16
+file _90x.0.t1-1
+K 9
+component
+V 15
+dir _90z.0.t1-1
+K 9
+directive
+V 15
+dir _91l.0.t1-1
+K 3
+e2e
+V 15
+dir _923.0.t1-1
+K 4
+enum
+V 15
+dir _92p.0.t1-1
+K 5
+guard
+V 15
+dir _933.0.t1-1
+K 9
+interface
+V 15
+dir _93j.0.t1-1
+K 7
+library
+V 15
+dir _93x.0.t1-1
+K 10
+migrations
+V 15
+dir _94v.0.t1-1
+K 6
+module
+V 15
+dir _959.0.t1-1
+K 6
+ng-new
+V 15
+dir _95t.0.t1-1
+K 12
+package.json
+V 16
+file _963.0.t1-1
+K 4
+pipe
+V 15
+dir _965.0.t1-1
+K 7
+service
+V 15
+dir _96n.0.t1-1
+K 14
+service-worker
+V 15
+dir _975.0.t1-1
+K 9
+universal
+V 15
+dir _97j.0.t1-1
+K 7
+utility
+V 15
+dir _987.0.t1-1
+K 9
+workspace
+V 15
+dir _99r.0.t1-1

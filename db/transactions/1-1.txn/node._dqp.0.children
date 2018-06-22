@@ -1,0 +1,37 @@
+END
+K 14
+.coveralls.yml
+V 16
+file _dqq.0.t1-1
+K 10
+.npmignore
+V 16
+file _dqt.0.t1-1
+K 11
+.travis.yml
+V 16
+file _dqv.0.t1-1
+K 11
+LICENSE.txt
+V 16
+file _dqx.0.t1-1
+K 9
+README.md
+V 16
+file _dqz.0.t1-1
+K 8
+index.js
+V 16
+file _dr1.0.t1-1
+K 12
+node_modules
+V 15
+dir _dr3.0.t1-1
+K 12
+package.json
+V 16
+file _drt.0.t1-1
+K 4
+test
+V 15
+dir _drv.0.t1-1

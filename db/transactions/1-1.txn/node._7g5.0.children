@@ -1,0 +1,29 @@
+END
+K 5
+debug
+V 15
+dir _7g6.0.t1-1
+K 16
+dom_adapter.d.ts
+V 16
+file _7gd.0.t1-1
+K 17
+dom_renderer.d.ts
+V 16
+file _7gf.0.t1-1
+K 15
+dom_tokens.d.ts
+V 16
+file _7gh.0.t1-1
+K 6
+events
+V 15
+dir _7gj.0.t1-1
+K 23
+shared_styles_host.d.ts
+V 16
+file _7gt.0.t1-1
+K 9
+util.d.ts
+V 16
+file _7gv.0.t1-1

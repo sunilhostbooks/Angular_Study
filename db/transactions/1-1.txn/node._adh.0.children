@@ -1,0 +1,29 @@
+END
+K 10
+.npmignore
+V 16
+file _adi.0.t1-1
+K 11
+.travis.yml
+V 16
+file _adl.0.t1-1
+K 7
+LICENSE
+V 16
+file _adn.0.t1-1
+K 9
+README.md
+V 16
+file _adp.0.t1-1
+K 3
+lib
+V 15
+dir _adr.0.t1-1
+K 12
+package.json
+V 16
+file _ae7.0.t1-1
+K 3
+tst
+V 15
+dir _ae9.0.t1-1

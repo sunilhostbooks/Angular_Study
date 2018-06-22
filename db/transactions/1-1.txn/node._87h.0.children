@@ -1,0 +1,37 @@
+END
+K 8
+.mailmap
+V 16
+file _87i.0.t1-1
+K 10
+AUTHORS.md
+V 16
+file _87l.0.t1-1
+K 19
+CopyrightNotice.txt
+V 16
+file _87n.0.t1-1
+K 11
+LICENSE.txt
+V 16
+file _87p.0.t1-1
+K 9
+README.md
+V 16
+file _87r.0.t1-1
+K 24
+ThirdPartyNoticeText.txt
+V 16
+file _87t.0.t1-1
+K 3
+bin
+V 15
+dir _87v.0.t1-1
+K 3
+lib
+V 15
+dir _881.0.t1-1
+K 12
+package.json
+V 16
+file _8cb.0.t1-1

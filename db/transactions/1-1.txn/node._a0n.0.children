@@ -1,0 +1,13 @@
+END
+K 16
+_formatLimit.jst
+V 16
+file _a0o.0.t1-1
+K 19
+patternRequired.jst
+V 16
+file _a0r.0.t1-1
+K 10
+switch.jst
+V 16
+file _a0t.0.t1-1

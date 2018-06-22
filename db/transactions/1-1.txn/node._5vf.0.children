@@ -1,0 +1,61 @@
+END
+K 9
+README.md
+V 16
+file _5vg.0.t1-1
+K 7
+bundles
+V 15
+dir _5vj.0.t1-1
+K 9
+core.d.ts
+V 16
+file _5w1.0.t1-1
+K 18
+core.metadata.json
+V 16
+file _5w3.0.t1-1
+K 7
+esm2015
+V 15
+dir _5w5.0.t1-1
+K 4
+esm5
+V 15
+dir _65l.0.t1-1
+K 8
+fesm2015
+V 15
+dir _6et.0.t1-1
+K 5
+fesm5
+V 15
+dir _6f3.0.t1-1
+K 10
+index.d.ts
+V 16
+file _6fd.0.t1-1
+K 12
+package.json
+V 16
+file _6ff.0.t1-1
+K 15
+public_api.d.ts
+V 16
+file _6fh.0.t1-1
+K 3
+src
+V 15
+dir _6fj.0.t1-1
+K 7
+testing
+V 15
+dir _6nf.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _6or.0.t1-1
+K 21
+testing.metadata.json
+V 16
+file _6ot.0.t1-1

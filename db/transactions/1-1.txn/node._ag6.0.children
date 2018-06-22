@@ -1,0 +1,25 @@
+END
+K 7
+LICENSE
+V 16
+file _ag8.0.t1-1
+K 9
+README.md
+V 16
+file _agb.0.t1-1
+K 11
+inherits.js
+V 16
+file _agd.0.t1-1
+K 19
+inherits_browser.js
+V 16
+file _agf.0.t1-1
+K 12
+package.json
+V 16
+file _agh.0.t1-1
+K 7
+test.js
+V 16
+file _agj.0.t1-1

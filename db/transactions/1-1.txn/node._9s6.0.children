@@ -1,0 +1,17 @@
+END
+K 10
+hidden.txt
+V 16
+file _9s8.0.t1-1
+K 19
+hidden_readonly.txt
+V 16
+file _9sb.0.t1-1
+K 12
+readonly.txt
+V 16
+file _9sd.0.t1-1
+K 12
+somefile.txt
+V 16
+file _9sf.0.t1-1

@@ -1,0 +1,17 @@
+END
+K 3
+tsc
+V 16
+file _878.0.t1-1
+K 7
+tsc.cmd
+V 16
+file _87b.0.t1-1
+K 8
+tsserver
+V 16
+file _87d.0.t1-1
+K 12
+tsserver.cmd
+V 16
+file _87f.0.t1-1

@@ -1,0 +1,61 @@
+END
+K 9
+README.md
+V 16
+file _7hy.0.t1-1
+K 7
+bundles
+V 15
+dir _7i1.0.t1-1
+K 7
+esm2015
+V 15
+dir _7ij.0.t1-1
+K 4
+esm5
+V 15
+dir _7k3.0.t1-1
+K 8
+fesm2015
+V 15
+dir _7lj.0.t1-1
+K 5
+fesm5
+V 15
+dir _7lt.0.t1-1
+K 10
+index.d.ts
+V 16
+file _7m3.0.t1-1
+K 12
+package.json
+V 16
+file _7m5.0.t1-1
+K 29
+platform-browser-dynamic.d.ts
+V 16
+file _7m7.0.t1-1
+K 38
+platform-browser-dynamic.metadata.json
+V 16
+file _7m9.0.t1-1
+K 15
+public_api.d.ts
+V 16
+file _7mb.0.t1-1
+K 3
+src
+V 15
+dir _7md.0.t1-1
+K 7
+testing
+V 15
+dir _7mz.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _7np.0.t1-1
+K 21
+testing.metadata.json
+V 16
+file _7nr.0.t1-1

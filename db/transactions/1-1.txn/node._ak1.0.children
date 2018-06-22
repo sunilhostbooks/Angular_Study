@@ -1,0 +1,41 @@
+END
+K 7
+LICENSE
+V 16
+file _ak2.0.t1-1
+K 9
+README.md
+V 16
+file _ak5.0.t1-1
+K 8
+bench.js
+V 16
+file _ak7.0.t1-1
+K 8
+index.js
+V 16
+file _ak9.0.t1-1
+K 3
+lib
+V 15
+dir _akb.0.t1-1
+K 12
+package.json
+V 16
+file _akz.0.t1-1
+K 11
+parallel.js
+V 16
+file _al1.0.t1-1
+K 9
+serial.js
+V 16
+file _al3.0.t1-1
+K 16
+serialOrdered.js
+V 16
+file _al5.0.t1-1
+K 9
+stream.js
+V 16
+file _al7.0.t1-1

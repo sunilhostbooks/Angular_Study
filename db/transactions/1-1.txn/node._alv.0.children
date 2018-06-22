@@ -1,0 +1,33 @@
+END
+K 7
+AUTHORS
+V 16
+file _alw.0.t1-1
+K 12
+CHANGELOG.md
+V 16
+file _alz.0.t1-1
+K 7
+LICENSE
+V 16
+file _am1.0.t1-1
+K 9
+README.md
+V 16
+file _am3.0.t1-1
+K 3
+bin
+V 15
+dir _am5.0.t1-1
+K 4
+data
+V 15
+dir _am9.0.t1-1
+K 3
+lib
+V 15
+dir _amd.0.t1-1
+K 12
+package.json
+V 16
+file _aq7.0.t1-1

@@ -1,0 +1,4310 @@
+id: bt-6.0.r6/0
+type: file
+count: 0
+text: 2 0 262 245 9eedc0193860b55d8476294ace992bdd a1c91f0a086bf92fddb02ccf23578ec2b51c099c 5-6/_bu
+cpath: /trunk/01-6-2018/getpost/.editorconfig
+copyroot: 0 /
+
+id: 8s-6.0.r6/197
+type: file
+count: 0
+text: 2 275 27 15 aa1066d729fce2bb8798336cc1007bae 234fa7fff30918b72668f3fa3c2c4a85c852d773 5-6/_8t
+cpath: /trunk/01-6-2018/getpost/.git/COMMIT_EDITMSG
+copyroot: 0 /
+
+id: 48-6.0.r6/402
+type: file
+count: 0
+text: 2 315 35 23 4cf2d64e44205fe628ddd534e1151b58 acbaef275e46a7f14c1ef456fff2c8bbe8c84724 5-6/_49
+cpath: /trunk/01-6-2018/getpost/.git/HEAD
+copyroot: 0 /
+
+id: 71-6.0.r6/597
+type: file
+count: 0
+text: 2 363 174 157 88849028d7f5873bfa627e4224e870a9 04b05be37a5d2cb267be13afa12f804041364e50 5-6/_72
+cpath: /trunk/01-6-2018/getpost/.git/config
+copyroot: 0 /
+
+id: d0-6.0.r6/796
+type: file
+count: 0
+text: 2 550 86 73 a0a7c3fff21f2aea3cfa1d0316dd816c 9635f1b7e12c045212819dd934d809ef07efa2f4 5-6/_d1
+cpath: /trunk/01-6-2018/getpost/.git/description
+copyroot: 0 /
+
+id: 2j-6.0.r6/998
+type: file
+count: 0
+text: 2 649 495 478 ce562e08d8098926a3862fc6e7905199 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd 5-6/_2l
+cpath: /trunk/01-6-2018/getpost/.git/hooks/applypatch-msg.sample
+copyroot: 0 /
+
+id: 3g-6.0.r6/1218
+type: file
+count: 0
+text: 2 1157 526 896 579a3c1e12a1e74a98169175fb913012 ee1ed5aad98a435f2020b6de35c173b75d9affac 5-6/_3h
+cpath: /trunk/01-6-2018/getpost/.git/hooks/commit-msg.sample
+copyroot: 0 /
+
+id: 4v-6.0.r6/1436
+type: file
+count: 0
+text: 2 1696 206 189 2b7ea5cee3c49ff53d41e00785eb974c b614c2f63da7dca9f1db2e7ade61ef30448fc96c 5-6/_4w
+cpath: /trunk/01-6-2018/getpost/.git/hooks/post-update.sample
+copyroot: 0 /
+
+id: 9m-6.0.r6/1655
+type: file
+count: 0
+text: 2 1915 441 424 054f9ffb8bfe04a599751cc757226dda f208287c1a92525de9f5462e905a9d31de1e2d75 5-6/_9n
+cpath: /trunk/01-6-2018/getpost/.git/hooks/pre-applypatch.sample
+copyroot: 0 /
+
+id: 50-6.0.r6/1877
+type: file
+count: 0
+text: 2 2369 954 1642 01b1688f97f94776baae85d77b06048b 36aed8976dcc08b5076844f0ec645b18bc37758f 5-6/_51
+cpath: /trunk/01-6-2018/getpost/.git/hooks/pre-commit.sample
+copyroot: 0 /
+
+id: ch-6.0.r6/2096
+type: file
+count: 0
+text: 2 3336 692 1348 3c5989301dd4b949dfa1f43738a22819 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41 5-6/_ci
+cpath: /trunk/01-6-2018/getpost/.git/hooks/pre-push.sample
+copyroot: 0 /
+
+id: 89-6.0.r6/2313
+type: file
+count: 0
+text: 2 4041 2036 4951 81005745454846bb79cc3c7c0c57658d 5885a56ab4fca8075a05a562d005e922cde9853b 5-6/_8a
+cpath: /trunk/01-6-2018/getpost/.git/hooks/pre-rebase.sample
+copyroot: 0 /
+
+id: cs-6.0.r6/2533
+type: file
+count: 0
+text: 2 6090 686 1239 7dfe15854212a30f346da5255c1d794b 2b6275eda365cad50d167fe3a387c9bc9fedd54f 5-6/_ct
+cpath: /trunk/01-6-2018/getpost/.git/hooks/prepare-commit-msg.sample
+copyroot: 0 /
+
+id: 3r-6.0.r6/2760
+type: file
+count: 0
+text: 2 6789 1164 3610 517f14b9239689dff8bda3022ebd9004 e729cd61b27c128951d139de8e7c63d1a3758dde 5-6/_3s
+cpath: /trunk/01-6-2018/getpost/.git/hooks/update.sample
+copyroot: 0 /
+
+PLAIN
+K 21
+applypatch-msg.sample
+V 18
+file 2j-6.0.r6/998
+K 17
+commit-msg.sample
+V 19
+file 3g-6.0.r6/1218
+K 18
+post-update.sample
+V 19
+file 4v-6.0.r6/1436
+K 21
+pre-applypatch.sample
+V 19
+file 9m-6.0.r6/1655
+K 17
+pre-commit.sample
+V 19
+file 50-6.0.r6/1877
+K 15
+pre-push.sample
+V 19
+file ch-6.0.r6/2096
+K 17
+pre-rebase.sample
+V 19
+file 89-6.0.r6/2313
+K 25
+prepare-commit-msg.sample
+V 19
+file cs-6.0.r6/2533
+K 13
+update.sample
+V 19
+file 3r-6.0.r6/2760
+END
+ENDREP
+id: 6-6.0.r6/3435
+type: dir
+count: 0
+text: 6 2976 446 446 6ddae6e09fc2617fab35e9e7bccb58a2
+cpath: /trunk/01-6-2018/getpost/.git/hooks
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: ac-6.0.r6/3650
+type: file
+count: 0
+text: 4 2742406 1745 2863 e95ce94c8e11192b49e99bed4cfb04df ee78cf9e0bfc65d1f64b718d6fc7d4a98301d48c 5-6/_ad
+props: 6 3584 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/index
+copyroot: 0 /
+
+id: bc-6.0.r6/3908
+type: file
+count: 0
+text: 2 9526 257 240 036208b4a1ab4a235d75c181e685e5a3 c879df015d97615050afa7b9641e3352a1e701ac 5-6/_be
+cpath: /trunk/01-6-2018/getpost/.git/info/exclude
+copyroot: 0 /
+
+PLAIN
+K 7
+exclude
+V 19
+file bc-6.0.r6/3908
+END
+ENDREP
+id: 8-6.0.r6/4169
+type: dir
+count: 0
+text: 6 4115 41 41 5a47ba25ba918465ea9e4e24ea817215
+cpath: /trunk/01-6-2018/getpost/.git/info
+copyroot: 0 /
+
+id: 5r-6.0.r6/4315
+type: file
+count: 0
+text: 4 4731408 171 154 001ff4c7711eceed53fbee7882b85c85 957487d403505eff2bcc1a092e3dfb835ecb0992 5-6/_5s
+cpath: /trunk/01-6-2018/getpost/.git/logs/HEAD
+copyroot: 0 /
+
+id: 65-6.0.r6/4522
+type: file
+count: 0
+text: 4 4731408 171 154 001ff4c7711eceed53fbee7882b85c85 957487d403505eff2bcc1a092e3dfb835ecb0992 5-6/_67
+cpath: /trunk/01-6-2018/getpost/.git/logs/refs/heads/master
+copyroot: 0 /
+
+PLAIN
+K 6
+master
+V 19
+file 65-6.0.r6/4522
+END
+ENDREP
+id: c-6.0.r6/4795
+type: dir
+count: 0
+text: 6 4742 40 40 b6ebdc2c243b651ed57d9a30f7abf569
+cpath: /trunk/01-6-2018/getpost/.git/logs/refs/heads
+copyroot: 0 /
+
+PLAIN
+K 5
+heads
+V 17
+dir c-6.0.r6/4795
+END
+ENDREP
+id: a-6.0.r6/5002
+type: dir
+count: 0
+text: 6 4952 37 37 5f7aeea17aaca20bfa0f3c1498df745e
+cpath: /trunk/01-6-2018/getpost/.git/logs/refs
+copyroot: 0 /
+
+PLAIN
+K 4
+HEAD
+V 19
+file 5r-6.0.r6/4315
+K 4
+refs
+V 17
+dir a-6.0.r6/5002
+END
+ENDREP
+id: 9-6.0.r6/5236
+type: dir
+count: 0
+text: 6 5153 70 70 a58d57a42ad74954f80dbbefe216ec3d
+cpath: /trunk/01-6-2018/getpost/.git/logs
+copyroot: 0 /
+
+id: 9x-6.0.r6/5382
+type: file
+count: 0
+text: 2 9980 412 395 60d1264240f2614e17b64fc89aa9c943 c21525005e1e26e3ef88db75e591a4581dfcca04 5-6/_9z
+cpath: /trunk/01-6-2018/getpost/.git/objects/01/2182efa3b9bb5cf84e1b8a9f188025432e789e
+copyroot: 0 /
+
+PLAIN
+K 38
+2182efa3b9bb5cf84e1b8a9f188025432e789e
+V 19
+file 9x-6.0.r6/5382
+END
+ENDREP
+id: f-6.0.r6/5712
+type: dir
+count: 0
+text: 6 5626 73 73 082cee0b0827d6df4210b10f6cfcd11f
+cpath: /trunk/01-6-2018/getpost/.git/objects/01
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 25-6.0.r6/5930
+type: file
+count: 0
+text: 4 5082371 911 894 d6bd694072f800b2c705d8c72f19007c a49af2f636d3c4cf52c01374358f424b312d7b20 5-6/_27
+props: 6 5864 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/15/a3bc2f5d0609fe5db84d4dfb296fad635b6d27
+copyroot: 0 /
+
+PLAIN
+K 38
+a3bc2f5d0609fe5db84d4dfb296fad635b6d27
+V 19
+file 25-6.0.r6/5930
+END
+ENDREP
+id: h-6.0.r6/6316
+type: dir
+count: 0
+text: 6 6230 73 73 1d7690cc990515641eaebca6705d1703
+cpath: /trunk/01-6-2018/getpost/.git/objects/15
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: b9-6.0.r6/6534
+type: file
+count: 0
+text: 2 10405 367 350 bba63c01c6d420e1a1f89038de37e062 89f64c63267eae9cc8e744e7de12cef5aa43c305 5-6/_bb
+props: 6 6468 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/16/317897b1c50a3a71bc775a8d6429f2b4c6cf98
+copyroot: 0 /
+
+PLAIN
+K 38
+317897b1c50a3a71bc775a8d6429f2b4c6cf98
+V 19
+file b9-6.0.r6/6534
+END
+ENDREP
+id: i-6.0.r6/6918
+type: dir
+count: 0
+text: 6 6832 73 73 79fe603ea72d3b398108f0204689c9b6
+cpath: /trunk/01-6-2018/getpost/.git/objects/16
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 2p-6.0.r6/7136
+type: file
+count: 0
+text: 2 11155 100 87 6a3a1712b0264aad66f7ca7aef737206 eabed9a49b5200b7350ee5f59bb5c73f21266847 5-6/_2r
+props: 6 7070 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/27/c55e85b7b14bca5ed31fd0c9ae91794fc90604
+copyroot: 0 /
+
+PLAIN
+K 38
+c55e85b7b14bca5ed31fd0c9ae91794fc90604
+V 19
+file 2p-6.0.r6/7136
+END
+ENDREP
+id: j-6.0.r6/7519
+type: dir
+count: 0
+text: 6 7433 73 73 3be07ea823d1ce77511bcb4d8df20113
+cpath: /trunk/01-6-2018/getpost/.git/objects/27
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: cp-6.0.r6/7737
+type: file
+count: 0
+text: 2 11861 80 67 8e73b1ffdb67cd03e28de096357fedc3 95a8bfa69ce97b09c046e5530ba232adced95224 5-6/_cr
+props: 6 7671 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/36/12073bc31cd4c1f5d6cbb00318521e9a61bd8a
+copyroot: 0 /
+
+PLAIN
+K 38
+12073bc31cd4c1f5d6cbb00318521e9a61bd8a
+V 19
+file cp-6.0.r6/7737
+END
+ENDREP
+id: k-6.0.r6/8119
+type: dir
+count: 0
+text: 6 8033 73 73 9a4479f2976c07e376ef1a513672c0e6
+cpath: /trunk/01-6-2018/getpost/.git/objects/36
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: dc-6.0.r6/8337
+type: file
+count: 0
+text: 4 1202862 497 480 35c4ce2ea90edc51d3a63c84303e6451 f3f0a9e3c6573009e7dce7d1416ce9424874023d 5-6/_de
+props: 6 8271 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/3a/379b37f579247fcdde4fd436cca1d0add57cbb
+copyroot: 0 /
+
+PLAIN
+K 38
+379b37f579247fcdde4fd436cca1d0add57cbb
+V 19
+file dc-6.0.r6/8337
+END
+ENDREP
+id: l-6.0.r6/8723
+type: dir
+count: 0
+text: 6 8637 73 73 40965a0832ed1331fbb99ee63e6f6be6
+cpath: /trunk/01-6-2018/getpost/.git/objects/3a
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7n-6.0.r6/8941
+type: file
+count: 0
+text: 2 13084 959 942 99043e6a741d3f9643acec87ac289bae d57106b0e96c39206499daa4b025a9186dc5c3fc 5-6/_7p
+props: 6 8875 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/3e/a984c776ef691c92b37ddf933df452cdc3d8bc
+copyroot: 0 /
+
+PLAIN
+K 38
+a984c776ef691c92b37ddf933df452cdc3d8bc
+V 19
+file 7n-6.0.r6/8941
+END
+ENDREP
+id: m-6.0.r6/9325
+type: dir
+count: 0
+text: 6 9239 73 73 4d8aeb4e0620d44b2eae42db369808a0
+cpath: /trunk/01-6-2018/getpost/.git/objects/3e
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: a2-6.0.r6/9543
+type: file
+count: 0
+text: 2 14056 148 131 99d91dbe7d59057acf69bf0f39de39d5 fef200ada7cde6a4b9ae7d4992d0c9425f35254a 5-6/_a4
+props: 6 9477 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/3f/c8837ee5ad71ab4d85f5e6bff35d6f4a800cbb
+copyroot: 0 /
+
+PLAIN
+K 38
+c8837ee5ad71ab4d85f5e6bff35d6f4a800cbb
+V 19
+file a2-6.0.r6/9543
+END
+ENDREP
+id: n-6.0.r6/9927
+type: dir
+count: 0
+text: 6 9841 73 73 90c8bda9f2bde186adea5428269b7220
+cpath: /trunk/01-6-2018/getpost/.git/objects/3f
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5y-6.0.r6/10145
+type: file
+count: 0
+text: 4 4663717 430 413 18ab9d41a5b5f3025a41b50a3d2f5758 6a3b3650c1f56b2dd3eb2e9d786fcb9e5f3ab20e 5-6/_60
+props: 6 10079 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/51/88dc537f942c89baeaf845206036ff3bfe78ae
+copyroot: 0 /
+
+PLAIN
+K 38
+88dc537f942c89baeaf845206036ff3bfe78ae
+V 20
+file 5y-6.0.r6/10145
+END
+ENDREP
+id: o-6.0.r6/10534
+type: dir
+count: 0
+text: 6 10447 74 74 7a0c46d70182c9646c8da77472eba0b8
+cpath: /trunk/01-6-2018/getpost/.git/objects/51
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: ce-6.0.r6/10754
+type: file
+count: 0
+text: 2 14217 174 157 722ff78b995d31c6c0a120d862765b52 1aab9af1ed476c5ca9306a81df46bd4b9e077897 5-6/_cg
+props: 6 10688 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/52/e2c1a5a74ce268bec92d34cd3bca751624adb3
+copyroot: 0 /
+
+PLAIN
+K 38
+e2c1a5a74ce268bec92d34cd3bca751624adb3
+V 20
+file ce-6.0.r6/10754
+END
+ENDREP
+id: p-6.0.r6/11141
+type: dir
+count: 0
+text: 6 11054 74 74 01cc5e6aa3b9a0e65f7d9bf60729160b
+cpath: /trunk/01-6-2018/getpost/.git/objects/52
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: c9-6.0.r6/11361
+type: file
+count: 0
+text: 2 14645 102 89 55e56985cbc2227256acb2644964029c 83c88ba08d548c47455c61711939edbc9b7ba8a8 5-6/_cb
+props: 6 11295 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/62/bb613b87f8862481a2f643c70d06a188556a94
+copyroot: 0 /
+
+PLAIN
+K 38
+bb613b87f8862481a2f643c70d06a188556a94
+V 20
+file c9-6.0.r6/11361
+END
+ENDREP
+id: q-6.0.r6/11747
+type: dir
+count: 0
+text: 6 11660 74 74 5da458a033427762d2256ea243773914
+cpath: /trunk/01-6-2018/getpost/.git/objects/62
+copyroot: 0 /
+
+id: 5a-6.0.r6/11901
+type: file
+count: 0
+text: 2 14760 190 173 a6f6440c0e7096c10e207a7bdabdcda0 57177cd158fb39bae9ca8ab413dab4249c32b5eb 5-6/_5c
+cpath: /trunk/01-6-2018/getpost/.git/objects/6e/87a003da89defd554080af5af93600cc9f91fe
+copyroot: 0 /
+
+PLAIN
+K 38
+87a003da89defd554080af5af93600cc9f91fe
+V 20
+file 5a-6.0.r6/11901
+END
+ENDREP
+id: r-6.0.r6/12234
+type: dir
+count: 0
+text: 6 12147 74 74 6986f306146cb21c4ad1d7562a9a702d
+cpath: /trunk/01-6-2018/getpost/.git/objects/6e
+copyroot: 0 /
+
+id: 7h-6.0.r6/12388
+type: file
+count: 0
+text: 2 14963 171 154 804303dbbdc4adc69d051c81ed9f2dfb fac8fe948e1036216fd09db4fad1569ec7baee87 5-6/_7i
+cpath: /trunk/01-6-2018/getpost/.git/objects/72/2c370d58793cdaed688bd365de5cedb643e565
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 2m-6.0.r6/12700
+type: file
+count: 0
+text: 4 2011700 132 119 b1df6f5ebaff29c904b53969345a0d2f 24e2398de8453b2db98029a7389128c3529abcc7 5-6/_2o
+props: 6 12634 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/72/db23c6eb07761a407fc3dd9cb286351d562aa3
+copyroot: 0 /
+
+PLAIN
+K 38
+2c370d58793cdaed688bd365de5cedb643e565
+V 20
+file 7h-6.0.r6/12388
+K 38
+db23c6eb07761a407fc3dd9cb286351d562aa3
+V 20
+file 2m-6.0.r6/12700
+END
+ENDREP
+id: s-6.0.r6/13159
+type: dir
+count: 0
+text: 6 13002 144 144 26c01e1bdcef040173a6e0053ba5f64f
+cpath: /trunk/01-6-2018/getpost/.git/objects/72
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: c1-6.0.r6/13381
+type: file
+count: 0
+text: 2 15147 176 159 87ba701f7f8f1aada7b49ae8c9c463d3 fc89d2ff6b92b6983d14409c168eaed4e88d9060 5-6/_c3
+props: 6 13315 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/7b/0f67283151427327b47fed20bcea1ea943cf2f
+copyroot: 0 /
+
+PLAIN
+K 38
+0f67283151427327b47fed20bcea1ea943cf2f
+V 20
+file c1-6.0.r6/13381
+END
+ENDREP
+id: t-6.0.r6/13768
+type: dir
+count: 0
+text: 6 13681 74 74 6567bb9e4b95e3f5fc7c840aca121c0d
+cpath: /trunk/01-6-2018/getpost/.git/objects/7b
+copyroot: 0 /
+
+id: 2x-6.0.r6/13922
+type: file
+count: 0
+text: 2 15336 1620 1603 3d151986470f0b1c76ee7af4bcc05d57 38009bfae235c9b5e63bdc0778943c9625695f38 5-6/_2z
+cpath: /trunk/01-6-2018/getpost/.git/objects/80/81c7ceaf2be08bf59010158c586170d9d2d517
+copyroot: 0 /
+
+PLAIN
+K 38
+81c7ceaf2be08bf59010158c586170d9d2d517
+V 20
+file 2x-6.0.r6/13922
+END
+ENDREP
+id: u-6.0.r6/14257
+type: dir
+count: 0
+text: 6 14170 74 74 b66afcb0ddf0a59ca8af4779b72c8023
+cpath: /trunk/01-6-2018/getpost/.git/objects/80
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 8m-6.0.r6/14477
+type: file
+count: 0
+text: 2 16969 181 164 eea74f6c1639d829d0c0860cef875b26 a6c5c50d070e150e2f99f02e28e997872e68d221 5-6/_8o
+props: 6 14411 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/82/ea75ba504ab2726e4bd08d89e69e99b7a711ba
+copyroot: 0 /
+
+PLAIN
+K 38
+ea75ba504ab2726e4bd08d89e69e99b7a711ba
+V 20
+file 8m-6.0.r6/14477
+END
+ENDREP
+id: v-6.0.r6/14864
+type: dir
+count: 0
+text: 6 14777 74 74 e83524357bb242dda3b63f2f4b86d08e
+cpath: /trunk/01-6-2018/getpost/.git/objects/82
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 52-6.0.r6/15084
+type: file
+count: 0
+text: 2 17163 495 478 7670df7f6fcc8a6decaa04f38a36d314 dbfeabbcf005c28927387a3f82d792340132e9d2 5-6/_54
+props: 6 15018 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/86/776a391a5b48b32506eb0fa62b15ed6c926b69
+copyroot: 0 /
+
+PLAIN
+K 38
+776a391a5b48b32506eb0fa62b15ed6c926b69
+V 20
+file 52-6.0.r6/15084
+END
+ENDREP
+id: w-6.0.r6/15471
+type: dir
+count: 0
+text: 6 15384 74 74 793b10688519bfa82d8ec22ecd929a23
+cpath: /trunk/01-6-2018/getpost/.git/objects/86
+copyroot: 0 /
+
+id: 7s-6.0.r6/15625
+type: file
+count: 0
+text: 2 17671 274 257 762840553244f93191c1cdab1884447c dda2d427fa64e321228a2c888b821dcf58f02642 5-6/_7u
+cpath: /trunk/01-6-2018/getpost/.git/objects/8e/09ab492e26c2b2c0920a75dd795811f5815369
+copyroot: 0 /
+
+PLAIN
+K 38
+09ab492e26c2b2c0920a75dd795811f5815369
+V 20
+file 7s-6.0.r6/15625
+END
+ENDREP
+id: x-6.0.r6/15958
+type: dir
+count: 0
+text: 6 15871 74 74 23a1d36105697627683c8ba6a27472ba
+cpath: /trunk/01-6-2018/getpost/.git/objects/8e
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: cc-6.0.r6/16178
+type: file
+count: 0
+text: 4 4844239 523 506 834ff3600ea58262465e6e764b8a25fc 427c56f4e77bcd1102d649344f46696af510ea68 5-6/_cd
+props: 6 16112 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/8f/7a769dcebaeaf64f0e8b71851f921a5338006d
+copyroot: 0 /
+
+id: 9o-6.0.r6/16480
+type: file
+count: 0
+text: 2 17958 200 183 3b87c67ed329f5c27e49e541a6177994 d4866977d5d1595f6761cc7c6e625b9236fb6c5b 5-6/_9q
+cpath: /trunk/01-6-2018/getpost/.git/objects/8f/7cedecab86d7612d16ec994e222f92f837f1c0
+copyroot: 0 /
+
+PLAIN
+K 38
+7a769dcebaeaf64f0e8b71851f921a5338006d
+V 20
+file cc-6.0.r6/16178
+K 38
+7cedecab86d7612d16ec994e222f92f837f1c0
+V 20
+file 9o-6.0.r6/16480
+END
+ENDREP
+id: y-6.0.r6/16883
+type: dir
+count: 0
+text: 6 16726 144 144 bb915910bb3a1d1d00c027800e298505
+cpath: /trunk/01-6-2018/getpost/.git/objects/8f
+copyroot: 0 /
+
+id: 4q-6.0.r6/17039
+type: file
+count: 0
+text: 2 18171 96 83 f84db5e283987f334a9046ba84af8ba6 055a0ce3e65e14a57f1770532ccda2946edd37b9 5-6/_4s
+cpath: /trunk/01-6-2018/getpost/.git/objects/90/d4ee0072ce3fc41812f8af910219f9eea3c3de
+copyroot: 0 /
+
+PLAIN
+K 38
+d4ee0072ce3fc41812f8af910219f9eea3c3de
+V 20
+file 4q-6.0.r6/17039
+END
+ENDREP
+id: z-6.0.r6/17370
+type: dir
+count: 0
+text: 6 17283 74 74 e51de549513c6daf168b4d498feee927
+cpath: /trunk/01-6-2018/getpost/.git/objects/90
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: dp-6.0.r6/17590
+type: file
+count: 0
+text: 2 18789 230 213 076234c8445e9977a8de0876cb75f39f 1028370b9272cce4f148c17f60b89c8f1fd179cd 5-6/_dr
+props: 6 17524 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/91/ec6da5f07886cf1d97b5d4212f4ddaa3eb2c9c
+copyroot: 0 /
+
+PLAIN
+K 38
+ec6da5f07886cf1d97b5d4212f4ddaa3eb2c9c
+V 20
+file dp-6.0.r6/17590
+END
+ENDREP
+id: 10-6.0.r6/17977
+type: dir
+count: 0
+text: 6 17890 74 74 dba1db1ef3cf808503729a73c221ed2d
+cpath: /trunk/01-6-2018/getpost/.git/objects/91
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 28-6.0.r6/18198
+type: file
+count: 0
+text: 4 3099291 223 206 c9361dda498d370d483f30caf610512e 204de6e9fbe71d5504866a294fcb37001caf8667 5-6/_2a
+props: 6 18132 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/a4/32217ed6dd27a89f042e04f83cb8ac19839e40
+copyroot: 0 /
+
+PLAIN
+K 38
+32217ed6dd27a89f042e04f83cb8ac19839e40
+V 20
+file 28-6.0.r6/18198
+END
+ENDREP
+id: 11-6.0.r6/18587
+type: dir
+count: 0
+text: 6 18500 74 74 2b412706e5023437e3801ccd6a941591
+cpath: /trunk/01-6-2018/getpost/.git/objects/a4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 38-6.0.r6/18808
+type: file
+count: 0
+text: 2 19570 170 153 c5f141e7c3f25e5bd700897589b6c201 f98ae557d328960328bdc19653616e63dc021774 5-6/_3a
+props: 6 18742 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/a6/dd6220282460dae17d69fc030b94ab1e81d960
+copyroot: 0 /
+
+PLAIN
+K 38
+dd6220282460dae17d69fc030b94ab1e81d960
+V 20
+file 38-6.0.r6/18808
+END
+ENDREP
+id: 12-6.0.r6/19195
+type: dir
+count: 0
+text: 6 19108 74 74 317261c8922bbd35522f2e7c70c84729
+cpath: /trunk/01-6-2018/getpost/.git/objects/a6
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 8p-6.0.r6/19416
+type: file
+count: 0
+text: 4 4727572 578 561 bbc86f26ac35c4841d8acc818c0866d0 8811d3f2c093a22363802b1a9020a182f7adafb8 5-6/_8r
+props: 6 19350 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/b5/084854f6070dd462082c06c0c328e0b92fbee5
+copyroot: 0 /
+
+PLAIN
+K 38
+084854f6070dd462082c06c0c328e0b92fbee5
+V 20
+file 8p-6.0.r6/19416
+END
+ENDREP
+id: 13-6.0.r6/19805
+type: dir
+count: 0
+text: 6 19718 74 74 56bafc89dc80ddcb71927e0deec0b14c
+cpath: /trunk/01-6-2018/getpost/.git/objects/b5
+copyroot: 0 /
+
+id: 8h-6.0.r6/19960
+type: file
+count: 0
+text: 2 19753 522 505 c81bea2cad1a13a75401c82481bd1545 fc277a9581e5cebff6f089b4e9953e1d7845c0a4 5-6/_8j
+cpath: /trunk/01-6-2018/getpost/.git/objects/b6/e00421c95f925352ccf765b942a8e94c0cdc74
+copyroot: 0 /
+
+PLAIN
+K 38
+e00421c95f925352ccf765b942a8e94c0cdc74
+V 20
+file 8h-6.0.r6/19960
+END
+ENDREP
+id: 14-6.0.r6/20293
+type: dir
+count: 0
+text: 6 20206 74 74 3733ecafbbfa03f9eb0667b118e7b2b8
+cpath: /trunk/01-6-2018/getpost/.git/objects/b6
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: c4-6.0.r6/20514
+type: file
+count: 0
+text: 4 1174829 357 340 7c856f505e911e2cf6cbbad206d2d390 d91ad96c30af736aa711a0f6d3d5b5a0132c7426 5-6/_c6
+props: 6 20448 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/c4/a8437599596b695e3b6f3657c6aeed1256fc01
+copyroot: 0 /
+
+PLAIN
+K 38
+a8437599596b695e3b6f3657c6aeed1256fc01
+V 20
+file c4-6.0.r6/20514
+END
+ENDREP
+id: 15-6.0.r6/20903
+type: dir
+count: 0
+text: 6 20816 74 74 2d0de73cf876a5059a1bede85f9181a4
+cpath: /trunk/01-6-2018/getpost/.git/objects/c4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 32-6.0.r6/21124
+type: file
+count: 0
+text: 2 20737 1318 1301 194fd85a8311f5cc269efe25a276bbec db859649ca511b37c9db5e578446fdbf889dfa2c 5-6/_34
+props: 6 21058 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/d3/10405a6817a4b84bb6117fb709e2c6ea11ef55
+copyroot: 0 /
+
+PLAIN
+K 38
+10405a6817a4b84bb6117fb709e2c6ea11ef55
+V 20
+file 32-6.0.r6/21124
+END
+ENDREP
+id: 16-6.0.r6/21513
+type: dir
+count: 0
+text: 6 21426 74 74 81dbb0f48a1c95ec72218f0c34526a2b
+cpath: /trunk/01-6-2018/getpost/.git/objects/d3
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: b4-6.0.r6/21734
+type: file
+count: 0
+text: 2 22068 65 53 ab5f20dcd5b558888db7d80b0f979f8a 63de011560d2ad048f607fa2f51395e3ee0981ef 5-6/_b6
+props: 6 21668 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e
+copyroot: 0 /
+
+PLAIN
+K 38
+64d0bc3dd917926892c55e3706cc116d5b165e
+V 20
+file b4-6.0.r6/21734
+END
+ENDREP
+id: 17-6.0.r6/22119
+type: dir
+count: 0
+text: 6 22032 74 74 661d792fb623d4899517553c35864817
+cpath: /trunk/01-6-2018/getpost/.git/objects/d5
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 4x-6.0.r6/22340
+type: file
+count: 0
+text: 4 4419086 98955 98934 db08cc2c86643f359bf999d288ede418 b916416f7ea48f3d489f69b6609b08801544f4b8 5-6/_4z
+props: 6 22274 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/d8/eb4820cdc2432291741173357c6fbc29262bd0
+copyroot: 0 /
+
+PLAIN
+K 38
+eb4820cdc2432291741173357c6fbc29262bd0
+V 20
+file 4x-6.0.r6/22340
+END
+ENDREP
+id: 18-6.0.r6/22733
+type: dir
+count: 0
+text: 6 22646 74 74 bfe6b781d2b02a445d3414384945bc45
+cpath: /trunk/01-6-2018/getpost/.git/objects/d8
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6l-6.0.r6/22954
+type: file
+count: 0
+text: 2 22290 236 219 e0d23cc76abfa1589a7ea05b853b1160 e9fc5b5622e5968d981201b232ce9a022d44f17a 5-6/_6n
+props: 6 22888 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/e4/2d1f965ff39151951ec25073478990de9d6287
+copyroot: 0 /
+
+PLAIN
+K 38
+2d1f965ff39151951ec25073478990de9d6287
+V 20
+file 6l-6.0.r6/22954
+END
+ENDREP
+id: 19-6.0.r6/23341
+type: dir
+count: 0
+text: 6 23254 74 74 b83af0a719d4bd9d07d272b7433d537d
+cpath: /trunk/01-6-2018/getpost/.git/objects/e4
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: ae-6.0.r6/23562
+type: file
+count: 0
+text: 2 22539 27 15 c70c34cbeefd40e7c0149b7a0c2c64c2 c2baae88d6364d878fd67e778c6a5d8306ad4ab0 5-6/_ag
+props: 6 23496 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+copyroot: 0 /
+
+PLAIN
+K 38
+9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+V 20
+file ae-6.0.r6/23562
+END
+ENDREP
+id: 1a-6.0.r6/23947
+type: dir
+count: 0
+text: 6 23860 74 74 2d20ef07cb2d354bae3ca1bfa57a8cbd
+cpath: /trunk/01-6-2018/getpost/.git/objects/e6
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 9c-6.0.r6/24168
+type: file
+count: 0
+text: 2 22579 337 320 a2e799008a2625226c590029d3e63ca7 6a6152326225e1a777152f9a0e3c6e2529b163bd 5-6/_9e
+props: 6 24102 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/ee/5c9d8336b76b3bb5658d0888bdec86eb7b0990
+copyroot: 0 /
+
+PLAIN
+K 38
+5c9d8336b76b3bb5658d0888bdec86eb7b0990
+V 20
+file 9c-6.0.r6/24168
+END
+ENDREP
+id: 1b-6.0.r6/24555
+type: dir
+count: 0
+text: 6 24468 74 74 38feac9a935d3c97b4bfc9f74fb269cb
+cpath: /trunk/01-6-2018/getpost/.git/objects/ee
+copyroot: 0 /
+
+id: 57-6.0.r6/24710
+type: file
+count: 0
+text: 2 22929 248 231 47d284c5a6c1413f5fe75f85e223af3b cce738254c07ee4b6f063c22dd7b70b30ac18926 5-6/_59
+cpath: /trunk/01-6-2018/getpost/.git/objects/ef/44e2862b0486ce9e4c6bfeca2eeaf242c57a94
+copyroot: 0 /
+
+PLAIN
+K 38
+44e2862b0486ce9e4c6bfeca2eeaf242c57a94
+V 20
+file 57-6.0.r6/24710
+END
+ENDREP
+id: 1c-6.0.r6/25043
+type: dir
+count: 0
+text: 6 24956 74 74 34b8d73050f655461c084daa27925edd
+cpath: /trunk/01-6-2018/getpost/.git/objects/ef
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 9f-6.0.r6/25264
+type: file
+count: 0
+text: 2 123547 206 189 5da392df10e4598ab57a30f6cec7f831 d8cb9fd27e2177e369cfcd367d1422c244f1969a 5-6/_9h
+props: 6 25198 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/f6/5716351aa5930fea545e1e3f016e2980c1f483
+copyroot: 0 /
+
+PLAIN
+K 38
+5716351aa5930fea545e1e3f016e2980c1f483
+V 20
+file 9f-6.0.r6/25264
+END
+ENDREP
+id: 1d-6.0.r6/25652
+type: dir
+count: 0
+text: 6 25565 74 74 2309d9f87c804ddeb3790e7df7128b4d
+cpath: /trunk/01-6-2018/getpost/.git/objects/f6
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 2s-6.0.r6/25873
+type: file
+count: 0
+text: 2 123766 743 726 358b791942b8f7d335275d890e190f83 34d39040e69dcc5ce0caf9ed87351c99f09a89ed 5-6/_2u
+props: 6 25807 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/fa/2706a406ba65e05f8e23003ce6e9df291fa146
+copyroot: 0 /
+
+PLAIN
+K 38
+2706a406ba65e05f8e23003ce6e9df291fa146
+V 20
+file 2s-6.0.r6/25873
+END
+ENDREP
+id: 1e-6.0.r6/26261
+type: dir
+count: 0
+text: 6 26174 74 74 2f7164daf33b09d70be0703c7fed7560
+cpath: /trunk/01-6-2018/getpost/.git/objects/fa
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 35-6.0.r6/26482
+type: file
+count: 0
+text: 4 5092281 196 179 c8292f573f4d39ee9b19e91741026a6a f0330c79bf67830025283f0fa872b8b05f507a20 5-6/_37
+props: 6 26416 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/.git/objects/fe/2e653112a04fa79ceda4867cde2fbdd6ea58ae
+copyroot: 0 /
+
+PLAIN
+K 38
+2e653112a04fa79ceda4867cde2fbdd6ea58ae
+V 20
+file 35-6.0.r6/26482
+END
+ENDREP
+id: 1f-6.0.r6/26871
+type: dir
+count: 0
+text: 6 26784 74 74 733bd4bc224a9ef6a4fd7bd319ca0baa
+cpath: /trunk/01-6-2018/getpost/.git/objects/fe
+copyroot: 0 /
+
+id: 1g-6.0.r6/27026
+type: dir
+count: 0
+cpath: /trunk/01-6-2018/getpost/.git/objects/info
+copyroot: 0 /
+
+id: 1h-6.0.r6/27130
+type: dir
+count: 0
+cpath: /trunk/01-6-2018/getpost/.git/objects/pack
+copyroot: 0 /
+
+PLAIN
+K 2
+01
+V 17
+dir f-6.0.r6/5712
+K 2
+15
+V 17
+dir h-6.0.r6/6316
+K 2
+16
+V 17
+dir i-6.0.r6/6918
+K 2
+27
+V 17
+dir j-6.0.r6/7519
+K 2
+36
+V 17
+dir k-6.0.r6/8119
+K 2
+3a
+V 17
+dir l-6.0.r6/8723
+K 2
+3e
+V 17
+dir m-6.0.r6/9325
+K 2
+3f
+V 17
+dir n-6.0.r6/9927
+K 2
+51
+V 18
+dir o-6.0.r6/10534
+K 2
+52
+V 18
+dir p-6.0.r6/11141
+K 2
+62
+V 18
+dir q-6.0.r6/11747
+K 2
+6e
+V 18
+dir r-6.0.r6/12234
+K 2
+72
+V 18
+dir s-6.0.r6/13159
+K 2
+7b
+V 18
+dir t-6.0.r6/13768
+K 2
+80
+V 18
+dir u-6.0.r6/14257
+K 2
+82
+V 18
+dir v-6.0.r6/14864
+K 2
+86
+V 18
+dir w-6.0.r6/15471
+K 2
+8e
+V 18
+dir x-6.0.r6/15958
+K 2
+8f
+V 18
+dir y-6.0.r6/16883
+K 2
+90
+V 18
+dir z-6.0.r6/17370
+K 2
+91
+V 19
+dir 10-6.0.r6/17977
+K 2
+a4
+V 19
+dir 11-6.0.r6/18587
+K 2
+a6
+V 19
+dir 12-6.0.r6/19195
+K 2
+b5
+V 19
+dir 13-6.0.r6/19805
+K 2
+b6
+V 19
+dir 14-6.0.r6/20293
+K 2
+c4
+V 19
+dir 15-6.0.r6/20903
+K 2
+d3
+V 19
+dir 16-6.0.r6/21513
+K 2
+d5
+V 19
+dir 17-6.0.r6/22119
+K 2
+d8
+V 19
+dir 18-6.0.r6/22733
+K 2
+e4
+V 19
+dir 19-6.0.r6/23341
+K 2
+e6
+V 19
+dir 1a-6.0.r6/23947
+K 2
+ee
+V 19
+dir 1b-6.0.r6/24555
+K 2
+ef
+V 19
+dir 1c-6.0.r6/25043
+K 2
+f6
+V 19
+dir 1d-6.0.r6/25652
+K 2
+fa
+V 19
+dir 1e-6.0.r6/26261
+K 2
+fe
+V 19
+dir 1f-6.0.r6/26871
+K 4
+info
+V 19
+dir 1g-6.0.r6/27026
+K 4
+pack
+V 19
+dir 1h-6.0.r6/27130
+END
+ENDREP
+id: e-6.0.r6/28443
+type: dir
+count: 0
+text: 6 27234 1196 1196 1f7c97c1b318192bc1f284186bfe3a25
+cpath: /trunk/01-6-2018/getpost/.git/objects
+copyroot: 0 /
+
+id: b1-6.0.r6/28598
+type: file
+count: 0
+text: 4 1146107 53 41 b70d4d2ba7199dd5c3e2cc106c45698f e046d95209768c7174e934f399573f96ac85f018 5-6/_b3
+cpath: /trunk/01-6-2018/getpost/.git/refs/heads/master
+copyroot: 0 /
+
+PLAIN
+K 6
+master
+V 20
+file b1-6.0.r6/28598
+END
+ENDREP
+id: 1j-6.0.r6/28866
+type: dir
+count: 0
+text: 6 28812 41 41 a6a8a2df328f82e43e979489fa59a525
+cpath: /trunk/01-6-2018/getpost/.git/refs/heads
+copyroot: 0 /
+
+id: 1l-6.0.r6/29021
+type: dir
+count: 0
+cpath: /trunk/01-6-2018/getpost/.git/refs/tags
+copyroot: 0 /
+
+PLAIN
+K 5
+heads
+V 19
+dir 1j-6.0.r6/28866
+K 4
+tags
+V 19
+dir 1l-6.0.r6/29021
+END
+ENDREP
+id: 1i-6.0.r6/29208
+type: dir
+count: 0
+text: 6 29122 73 73 29b7c0bb41b655f9fb22333d6dfe3188
+cpath: /trunk/01-6-2018/getpost/.git/refs
+copyroot: 0 /
+
+PLAIN
+K 14
+COMMIT_EDITMSG
+V 18
+file 8s-6.0.r6/197
+K 4
+HEAD
+V 18
+file 48-6.0.r6/402
+K 6
+config
+V 18
+file 71-6.0.r6/597
+K 11
+description
+V 18
+file d0-6.0.r6/796
+K 5
+hooks
+V 17
+dir 6-6.0.r6/3435
+K 5
+index
+V 19
+file ac-6.0.r6/3650
+K 4
+info
+V 17
+dir 8-6.0.r6/4169
+K 4
+logs
+V 17
+dir 9-6.0.r6/5236
+K 7
+objects
+V 18
+dir e-6.0.r6/28443
+K 4
+refs
+V 19
+dir 1i-6.0.r6/29208
+END
+ENDREP
+id: 4-6.0.r6/29729
+type: dir
+count: 0
+text: 6 29357 359 359 9edd1ca9253079ca807b4258c01f006e
+cpath: /trunk/01-6-2018/getpost/.git
+copyroot: 0 /
+
+id: 8u-6.0.r6/29874
+type: file
+count: 0
+text: 2 124588 520 503 318467958c56f870950a833432abf49b 26dca20079212c2ffb441d0128246ca6636e72cd 5-6/_8v
+cpath: /trunk/01-6-2018/getpost/.gitignore
+copyroot: 0 /
+
+id: 2b-6.0.r6/30077
+type: file
+count: 0
+text: 4 4843048 559 1024 785501c8e7b584175c7b130e6569b8fe 3ad6c8305dab81311d55b2d215f5dc0c341dc870 5-6/_2c
+cpath: /trunk/01-6-2018/getpost/README.md
+copyroot: 0 /
+
+id: bx-6.0.r6/30281
+type: file
+count: 0
+text: 4 4631120 765 3412 3a5d1adf5ba6b941a9bb1b830014bfc6 853100b69ab7dc0655a4549b017adec2a933609b 5-6/_by
+cpath: /trunk/01-6-2018/getpost/angular.json
+copyroot: 0 /
+
+id: dn-6.0.r6/30488
+type: file
+count: 0
+text: 2 126471 483 752 af3cc57b490b01d3f0eac7a158fc595c 19af5567abf153d5fe5952427f421aa677414b6a 5-6/_do
+cpath: /trunk/01-6-2018/getpost/e2e/protractor.conf.js
+copyroot: 0 /
+
+id: 77-6.0.r6/30703
+type: file
+count: 0
+text: 2 126967 316 299 8d83efb6e3b91095961e27d7655dd79e 06ec89e86e1db158e34126a437c332f257233bd3 5-6/_78
+cpath: /trunk/01-6-2018/getpost/e2e/src/app.e2e-spec.ts
+copyroot: 0 /
+
+id: 68-6.0.r6/30919
+type: file
+count: 0
+text: 2 127296 225 208 dcb32ef2c05e7b804ba490103360d420 3d53864a6aa829d1898f5e8de2ee1a77894f679d 5-6/_6a
+cpath: /trunk/01-6-2018/getpost/e2e/src/app.po.ts
+copyroot: 0 /
+
+PLAIN
+K 15
+app.e2e-spec.ts
+V 20
+file 77-6.0.r6/30703
+K 9
+app.po.ts
+V 20
+file 68-6.0.r6/30919
+END
+ENDREP
+id: 1n-6.0.r6/31233
+type: dir
+count: 0
+text: 6 31129 91 91 dbc670f1d529e1085fc4024cf65326b3
+cpath: /trunk/01-6-2018/getpost/e2e/src
+copyroot: 0 /
+
+id: aj-6.0.r6/31380
+type: file
+count: 0
+text: 2 127534 230 213 75fe943f8d0d56f383f7166f3de48700 cbf3a879d23f9eb6a9f05382ea6680548cfda5d6 5-6/_ak
+cpath: /trunk/01-6-2018/getpost/e2e/tsconfig.e2e.json
+copyroot: 0 /
+
+PLAIN
+K 18
+protractor.conf.js
+V 20
+file dn-6.0.r6/30488
+K 3
+src
+V 19
+dir 1n-6.0.r6/31233
+K 17
+tsconfig.e2e.json
+V 20
+file aj-6.0.r6/31380
+END
+ENDREP
+id: 1m-6.0.r6/31743
+type: dir
+count: 0
+text: 6 31594 136 136 a6a67262d356f9b61f275aa7f2a24d4e
+cpath: /trunk/01-6-2018/getpost/e2e
+copyroot: 0 /
+
+id: 6d-6.0.r6/31888
+type: file
+count: 0
+text: 4 3143272 85700 359681 b061eba372d49fb7291a0336484a1e3b ad150007cb2ad2206577b640b0e0a85f3b7ba8cf 5-6/_6e
+cpath: /trunk/01-6-2018/getpost/package-lock.json
+copyroot: 0 /
+
+id: 5p-6.0.r6/32104
+type: file
+count: 0
+text: 4 4843739 487 1312 aa3ba4aa2186b01c22c85b74fa303375 d85ca077e50cdccaa0d179d6695175aafb3341fd 5-6/_5q
+cpath: /trunk/01-6-2018/getpost/package.json
+copyroot: 0 /
+
+id: cw-6.0.r6/32311
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_cx
+cpath: /trunk/01-6-2018/getpost/src/app/app.component.css
+copyroot: 0 /
+
+id: e2-6.0.r6/32525
+type: file
+count: 0
+text: 4 3099097 181 164 7bd8d8a20ec0019f7c0c7418685180a7 d1e2de7af5ec0076042816161f5904d0f85d2a49 5-6/_e3
+cpath: /trunk/01-6-2018/getpost/src/app/app.component.html
+copyroot: 0 /
+
+id: 2v-6.0.r6/32745
+type: file
+count: 0
+text: 4 1180907 413 987 5e44e5556b3b9a8081055ca548f3b853 c828191c94eab89829506bf61ba35adace1310dc 5-6/_2w
+cpath: /trunk/01-6-2018/getpost/src/app/app.component.spec.ts
+copyroot: 0 /
+
+id: 92-6.0.r6/32968
+type: file
+count: 0
+text: 4 2219509 224 207 d147f0237fc1fd4fa26c2f6b4c523c9d 69176ae444efe13e0273dfa50c170672629d0e75 5-6/_93
+cpath: /trunk/01-6-2018/getpost/src/app/app.component.ts
+copyroot: 0 /
+
+id: 5j-6.0.r6/33186
+type: file
+count: 0
+text: 4 3102943 386 1056 e73a57a540dc012d5dda95750fc3406e d9221b1fe5ead070cff74b8c30b1445003cbb7bc 5-6/_5k
+cpath: /trunk/01-6-2018/getpost/src/app/app.module.ts
+copyroot: 0 /
+
+id: 81-6.0.r6/33402
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_82
+cpath: /trunk/01-6-2018/getpost/src/app/contact/contact.component.css
+copyroot: 0 /
+
+id: 6u-6.0.r6/33628
+type: file
+count: 0
+text: 4 5209525 260 595 50558d86ac25049b665126decac70f1a c473f320ce9aac840dfcc7a3043064b93b7d1413 5-6/_6w
+cpath: /trunk/01-6-2018/getpost/src/app/contact/contact.component.html
+copyroot: 0 /
+
+id: av-6.0.r6/33860
+type: file
+count: 0
+text: 4 2466710 311 635 e17481a471ee0c127133ff65e28ec6a2 3e64f60cedcc787aef0ebe96e5671b312fe0f713 5-6/_aw
+cpath: /trunk/01-6-2018/getpost/src/app/contact/contact.component.spec.ts
+copyroot: 0 /
+
+id: 7q-6.0.r6/34095
+type: file
+count: 0
+text: 4 3019381 513 496 8f95cedf9fb6b0fcfa0a4bd9e4d4fbd1 521c4fcc9d05cd1e3eae6ed417350d6d552581da 5-6/_7r
+cpath: /trunk/01-6-2018/getpost/src/app/contact/contact.component.ts
+copyroot: 0 /
+
+PLAIN
+K 21
+contact.component.css
+V 20
+file 81-6.0.r6/33402
+K 22
+contact.component.html
+V 20
+file 6u-6.0.r6/33628
+K 25
+contact.component.spec.ts
+V 20
+file av-6.0.r6/33860
+K 20
+contact.component.ts
+V 20
+file 7q-6.0.r6/34095
+END
+ENDREP
+id: 1s-6.0.r6/34558
+type: dir
+count: 0
+text: 6 34325 220 220 30bfff068e493d96da510f44ff4bbf4d
+cpath: /trunk/01-6-2018/getpost/src/app/contact
+copyroot: 0 /
+
+id: 8b-6.0.r6/34715
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_8c
+cpath: /trunk/01-6-2018/getpost/src/app/footer/footer.component.css
+copyroot: 0 /
+
+id: 4n-6.0.r6/34939
+type: file
+count: 0
+text: 4 1142371 898 2656 3b4e9a8ce591311e020ea0687617658a 4955e44490bcc3096dfff7682cf02f7043b32983 5-6/_4p
+cpath: /trunk/01-6-2018/getpost/src/app/footer/footer.component.html
+copyroot: 0 /
+
+id: b7-6.0.r6/35170
+type: file
+count: 0
+text: 3 973917 310 628 4d63c638cb2a9a3bc13e96bb194e11c6 7bfc6681b53fe344f30e4419961ec907d2f566cc 5-6/_b8
+cpath: /trunk/01-6-2018/getpost/src/app/footer/footer.component.spec.ts
+copyroot: 0 /
+
+id: br-6.0.r6/35402
+type: file
+count: 0
+text: 3 271080 286 269 1eb8c1f421545b99a234bc8ed489fd43 85e744a86de6d04e3da6b377b5e40dafef5bcb8d 5-6/_bs
+cpath: /trunk/01-6-2018/getpost/src/app/footer/footer.component.ts
+copyroot: 0 /
+
+PLAIN
+K 20
+footer.component.css
+V 20
+file 8b-6.0.r6/34715
+K 21
+footer.component.html
+V 20
+file 4n-6.0.r6/34939
+K 24
+footer.component.spec.ts
+V 20
+file b7-6.0.r6/35170
+K 19
+footer.component.ts
+V 20
+file br-6.0.r6/35402
+END
+ENDREP
+id: 1u-6.0.r6/35858
+type: dir
+count: 0
+text: 6 35629 216 216 7498a3d2bb1229eaaa704d926d11c7e2
+cpath: /trunk/01-6-2018/getpost/src/app/footer
+copyroot: 0 /
+
+id: ds-6.0.r6/36014
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_dt
+cpath: /trunk/01-6-2018/getpost/src/app/header/header.component.css
+copyroot: 0 /
+
+id: 3v-6.0.r6/36238
+type: file
+count: 0
+text: 4 3614013 353 728 c6f539a395956025134f7cf1c5731756 9b02919dea6e87af419fecd38c0df072d71723bb 5-6/_3x
+cpath: /trunk/01-6-2018/getpost/src/app/header/header.component.html
+copyroot: 0 /
+
+id: 4j-6.0.r6/36468
+type: file
+count: 0
+text: 3 962474 312 628 77fd4163c2da37f5892fa978e6226f82 11150f7c557f375e7456071686e292c5a8bf9b2c 5-6/_4k
+cpath: /trunk/01-6-2018/getpost/src/app/header/header.component.spec.ts
+copyroot: 0 /
+
+id: az-6.0.r6/36700
+type: file
+count: 0
+text: 3 89082 286 269 41d7fb5d088e2cb935246240a332e2ec 6a2b247f4c7c8fa04864f7e00817446afee9501e 5-6/_b0
+cpath: /trunk/01-6-2018/getpost/src/app/header/header.component.ts
+copyroot: 0 /
+
+PLAIN
+K 20
+header.component.css
+V 20
+file ds-6.0.r6/36014
+K 21
+header.component.html
+V 20
+file 3v-6.0.r6/36238
+K 24
+header.component.spec.ts
+V 20
+file 4j-6.0.r6/36468
+K 19
+header.component.ts
+V 20
+file az-6.0.r6/36700
+END
+ENDREP
+id: 1v-6.0.r6/37155
+type: dir
+count: 0
+text: 6 36926 216 216 474b6e0104e2533c8bfbe443dfc99618
+cpath: /trunk/01-6-2018/getpost/src/app/header
+copyroot: 0 /
+
+id: 73-6.0.r6/37311
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_74
+cpath: /trunk/01-6-2018/getpost/src/app/main/main.component.css
+copyroot: 0 /
+
+id: 98-6.0.r6/37531
+type: file
+count: 0
+text: 4 2225423 238 221 231d8825eb5621b7b50ddff2285ee86c 6a13f23760aae7284d9982dcab99d01467f6ee16 5-6/_99
+cpath: /trunk/01-6-2018/getpost/src/app/main/main.component.html
+copyroot: 0 /
+
+id: 9r-6.0.r6/37757
+type: file
+count: 0
+text: 4 1232519 312 614 5dec589a85c0e5f777cc0a4e597ac9a4 76ab8c7ac2ff23836b3680d07fa37057e4f40d37 5-6/_9s
+cpath: /trunk/01-6-2018/getpost/src/app/main/main.component.spec.ts
+copyroot: 0 /
+
+id: 4g-6.0.r6/37986
+type: file
+count: 0
+text: 4 3327771 390 618 2c6ed56154a345f6a9bb7b3abdffffe0 8e579de24b2a9ebf240f669a5a3689bea1eb4ee5 5-6/_4i
+cpath: /trunk/01-6-2018/getpost/src/app/main/main.component.ts
+copyroot: 0 /
+
+PLAIN
+K 18
+main.component.css
+V 20
+file 73-6.0.r6/37311
+K 19
+main.component.html
+V 20
+file 98-6.0.r6/37531
+K 22
+main.component.spec.ts
+V 20
+file 9r-6.0.r6/37757
+K 17
+main.component.ts
+V 20
+file 4g-6.0.r6/37986
+END
+ENDREP
+id: 1w-6.0.r6/38431
+type: dir
+count: 0
+text: 6 38210 208 208 bc27b49c3f1cf9f9e97c5f525b340eba
+cpath: /trunk/01-6-2018/getpost/src/app/main
+copyroot: 0 /
+
+id: 96-6.0.r6/38585
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_97
+cpath: /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.css
+copyroot: 0 /
+
+id: 2g-6.0.r6/38811
+type: file
+count: 0
+text: 4 3099527 275 258 f5c600c32354c3d07462bc625ce4ec6d 014d2900ffdd692e74f7e89916dd4506ee2f80e2 5-6/_2i
+cpath: /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.html
+copyroot: 0 /
+
+id: cj-6.0.r6/39043
+type: file
+count: 0
+text: 4 2588557 312 635 c489abf975034204799b70ca800f1c9c 5cdee482839923e47a25baa71be085049b02fd2e 5-6/_ck
+cpath: /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.spec.ts
+copyroot: 0 /
+
+id: 3e-6.0.r6/39278
+type: file
+count: 0
+text: 4 1113533 290 273 bac8882e6aa5c93936c63adc4611efcf 34b37e280c1ddb30962d68cada55b02ac6fef96f 5-6/_3f
+cpath: /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.ts
+copyroot: 0 /
+
+PLAIN
+K 21
+sidebar.component.css
+V 20
+file 96-6.0.r6/38585
+K 22
+sidebar.component.html
+V 20
+file 2g-6.0.r6/38811
+K 25
+sidebar.component.spec.ts
+V 20
+file cj-6.0.r6/39043
+K 20
+sidebar.component.ts
+V 20
+file 3e-6.0.r6/39278
+END
+ENDREP
+id: 1x-6.0.r6/39741
+type: dir
+count: 0
+text: 6 39508 220 220 7180ed0c68f649a4403f9ebef70d0b55
+cpath: /trunk/01-6-2018/getpost/src/app/sidebar
+copyroot: 0 /
+
+PLAIN
+K 17
+app.component.css
+V 20
+file cw-6.0.r6/32311
+K 18
+app.component.html
+V 20
+file e2-6.0.r6/32525
+K 21
+app.component.spec.ts
+V 20
+file 2v-6.0.r6/32745
+K 16
+app.component.ts
+V 20
+file 92-6.0.r6/32968
+K 13
+app.module.ts
+V 20
+file 5j-6.0.r6/33186
+K 7
+contact
+V 19
+dir 1s-6.0.r6/34558
+K 6
+footer
+V 19
+dir 1u-6.0.r6/35858
+K 6
+header
+V 19
+dir 1v-6.0.r6/37155
+K 4
+main
+V 19
+dir 1w-6.0.r6/38431
+K 7
+sidebar
+V 19
+dir 1x-6.0.r6/39741
+END
+ENDREP
+id: 1q-6.0.r6/40340
+type: dir
+count: 0
+text: 6 39898 429 429 075d7e4323e433c10e61e72df44d60fb
+cpath: /trunk/01-6-2018/getpost/src/app
+copyroot: 0 /
+
+id: df-6.0.r6/40489
+type: file
+count: 0
+text: 2 215062 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 5-6/_dg
+cpath: /trunk/01-6-2018/getpost/src/assets/.gitkeep
+copyroot: 0 /
+
+id: d2-6.0.r6/40697
+type: file
+count: 0
+text: 4 3997731 2959 26132 659231dde1c53bd14bbcffa1456df892 ecf2245dd39ea3b17ccb4bea42cda46356376078 5-6/_d3
+cpath: /trunk/01-6-2018/getpost/src/assets/css/bootstrap-theme.css
+copyroot: 0 /
+
+id: 6s-6.0.r6/40928
+type: file
+count: 0
+text: 4 3524937 7285 47721 ca7ee393ea214c018d316eee3acc7f39 abc2e3a1163de52378c71bb92d007c22abb0a393 5-6/_6t
+cpath: /trunk/01-6-2018/getpost/src/assets/css/bootstrap-theme.css.map
+copyroot: 0 /
+
+id: dl-6.0.r6/41163
+type: file
+count: 0
+text: 4 1235441 2819 23357 bf3499da1c31113720e9e395691730ba 4c936da026b2fb2e6b63d3d4ddbc3d9beb658d17 5-6/_dm
+cpath: /trunk/01-6-2018/getpost/src/assets/css/bootstrap-theme.min.css
+copyroot: 0 /
+
+id: 3m-6.0.r6/41398
+type: file
+count: 0
+text: 4 4731592 22697 154206 6ff8a5f369cc9b00fe91ce270af40389 eb90f314dfb8bacc59c94392d8e05ed919c74758 5-6/_3o
+cpath: /trunk/01-6-2018/getpost/src/assets/css/bootstrap.css
+copyroot: 0 /
+
+id: 9v-6.0.r6/41625
+type: file
+count: 0
+text: 4 4275063 77902 390518 ea05728a43eaff288b1d535ebe89ec25 16506513c5f3d95982e73fb6820cf3c4c58d6897 5-6/_9w
+cpath: /trunk/01-6-2018/getpost/src/assets/css/bootstrap.css.map
+copyroot: 0 /
+
+id: 4l-6.0.r6/41856
+type: file
+count: 0
+text: 4 2720418 21975 142393 bb28e6d54564c44307f53ace79b6c57b 729a42a650a4ba0ff1a1f5a017a35a8efabc920e 5-6/_4m
+cpath: /trunk/01-6-2018/getpost/src/assets/css/bootstrap.min.css
+copyroot: 0 /
+
+id: dh-6.0.r6/42087
+type: file
+count: 0
+text: 4 2440859 8191 35212 64dfb75ef30cbf691e7858dc1992b4df eec52ffee06bd3ea66967ae9cdd62f1fd2742365 5-6/_di
+cpath: /trunk/01-6-2018/getpost/src/assets/css/jquery-ui.css
+copyroot: 0 /
+
+id: 4a-6.0.r6/42312
+type: file
+count: 0
+text: 4 4035115 19697 133255 e56245f09ee01e57ddebb439f4fa5d71 6f054268a1475a6f52f3a2e93b7561b79016c8e4 5-6/_4b
+cpath: /trunk/01-6-2018/getpost/src/assets/css/master.css
+copyroot: 0 /
+
+id: 7j-6.0.r6/42536
+type: file
+count: 0
+text: 4 2527814 3348 17306 7730f8a7989b558dd34c2d10703ec595 40e78e4b188b3431a6a3efbeb73ee7c3879320d5 5-6/_7k
+cpath: /trunk/01-6-2018/getpost/src/assets/css/mystyle.css
+copyroot: 0 /
+
+PLAIN
+K 19
+bootstrap-theme.css
+V 20
+file d2-6.0.r6/40697
+K 23
+bootstrap-theme.css.map
+V 20
+file 6s-6.0.r6/40928
+K 23
+bootstrap-theme.min.css
+V 20
+file dl-6.0.r6/41163
+K 13
+bootstrap.css
+V 20
+file 3m-6.0.r6/41398
+K 17
+bootstrap.css.map
+V 20
+file 9v-6.0.r6/41625
+K 17
+bootstrap.min.css
+V 20
+file 4l-6.0.r6/41856
+K 13
+jquery-ui.css
+V 20
+file dh-6.0.r6/42087
+K 10
+master.css
+V 20
+file 4a-6.0.r6/42312
+K 11
+mystyle.css
+V 20
+file 7j-6.0.r6/42536
+END
+ENDREP
+id: 1z-6.0.r6/43210
+type: dir
+count: 0
+text: 6 42759 438 438 562ccce440c3377f433c536990bee6b3
+cpath: /trunk/01-6-2018/getpost/src/assets/css
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7l-6.0.r6/43432
+type: file
+count: 0
+text: 4 4518054 25777 61762 f059631b71593d4d71ccf3bfccd720df b0a1b7b1cb3aa364efc1ee3c30d97ac93e157680 5-6/_7m
+props: 6 43366 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/Geogrotesque-Regular.eot
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: d8-6.0.r6/43791
+type: file
+count: 0
+text: 4 4754733 25679 61552 0d578804e83dc320117fc310817861d5 ea4b949f2d3f664f559fa00f84301a0e14789be7 5-6/_d9
+props: 6 43725 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/Geogrotesque-Regular.ttf
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6h-6.0.r6/44150
+type: file
+count: 0
+text: 4 3495307 25600 25748 0f91a87495819e2ddc3f9e982a3a9d68 59ed68aba8fef5da4d61b14128a247a2a7f5a27b 5-6/_6i
+props: 6 44084 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/Geogrotesque-Regular.woff
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6j-6.0.r6/44510
+type: file
+count: 0
+text: 4 3228985 20066 20127 f4769f9bdb7466be65088239c12046d1 86b6f62b7853e67d3e635f6512a5a5efc58ea3c3 5-6/_6k
+props: 6 44444 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.eot
+copyroot: 0 /
+
+id: c7-6.0.r6/44811
+type: file
+count: 0
+text: 4 3583513 27713 108738 89889688147bd7575d6327160d64e760 de51a8494180a6db074af2dee2383f0a363c5b08 5-6/_c8
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.svg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bv-6.0.r6/45125
+type: file
+count: 0
+text: 4 3552725 23507 45404 e18bbf611f2a2e43afc071aa2f4e1512 44bc1850f570972267b169ae18f1cb06b611ffa2 5-6/_bw
+props: 6 45059 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.ttf
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: a7-6.0.r6/45492
+type: file
+count: 0
+text: 4 3820975 23202 23424 fa2772327f55d8198301fdb8bcfc8158 278e49a86e634da6f2a02f3b47dd9d2a8f26210f 5-6/_a8
+props: 6 45426 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.woff
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: e0-6.0.r6/45860
+type: file
+count: 0
+text: 4 4550161 18049 18028 448c34a56d699c29117adc64c43affeb ca35b697d99cae4d1b60f2d60fcd37771987eb07 5-6/_e1
+props: 6 45794 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.woff2
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bj-6.0.r6/46229
+type: file
+count: 0
+text: 4 2881025 35337 35329 f679859d9bfad6994ce7837597f19c09 bec0d3d49384b7850a0bfe533cec926aaa6c8632 5-6/_bk
+props: 6 46163 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.eot
+copyroot: 0 /
+
+id: 40-6.0.r6/46519
+type: file
+count: 0
+text: 4 3288363 36866 201892 e7cda4cf98d459bcb954a1743d2727f1 4cff2d074c718b18c57802900061860ce5157aa3 5-6/_41
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.svg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 3y-6.0.r6/46822
+type: file
+count: 0
+text: 4 3249064 38918 76428 191c035e911cae3f7047d2da178da382 7cae4cbe9948979af9ac2e620d3de09657f9e867 5-6/_3z
+props: 6 46756 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.ttf
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 8k-6.0.r6/47178
+type: file
+count: 0
+text: 4 2919286 38302 38444 31fb003b07635555b8c734f84fb5d687 3ce39a618a9ce8c2bddce357eab454d605fd233d 5-6/_8l
+props: 6 47112 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.woff
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 63-6.0.r6/47535
+type: file
+count: 0
+text: 4 2962400 30589 30568 dc3e5ba2d6d1658305189460a7e4bcaf 4d26ab12810be1f231069ec8cfcc02643b2800a8 5-6/_64
+props: 6 47469 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.woff2
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 3b-6.0.r6/47893
+type: file
+count: 0
+text: 4 3453513 34078 34094 f2b6cfeac07f0a1e67f768d3d55c7d6d 6a6550399866c6385626ba060a615dc64eafee3c 5-6/_3d
+props: 6 47827 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.eot
+copyroot: 0 /
+
+id: 85-6.0.r6/48184
+type: file
+count: 0
+text: 4 3896129 36597 200568 4ce178d1e5303d673f070801790e707d fe53fc2e4458ec05c266985bcb5290503684ecf9 5-6/_86
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.svg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7v-6.0.r6/48488
+type: file
+count: 0
+text: 4 3857012 37676 75332 103a2873d7cf9b3c16acccefe51babe7 cdfd3b46d8e6387bda9a831fc4b7131ca3298fbb 5-6/_7w
+props: 6 48422 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.ttf
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bn-6.0.r6/48845
+type: file
+count: 0
+text: 4 2256624 37119 37268 14139ae1e223c97b98ffb2d4c1f2284d 801d1f01364d4a602f978b19949f559297479c44 5-6/_bo
+props: 6 48779 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.woff
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 79-6.0.r6/49203
+type: file
+count: 0
+text: 4 5109490 29561 29540 b0bd6b760b040dccf88aac265ebb1916 e5b01d9bef6e5ec17c7648670eefc9203cd00fac 5-6/_7a
+props: 6 49137 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.woff2
+copyroot: 0 /
+
+PLAIN
+K 24
+Geogrotesque-Regular.eot
+V 20
+file 7l-6.0.r6/43432
+K 24
+Geogrotesque-Regular.ttf
+V 20
+file d8-6.0.r6/43791
+K 25
+Geogrotesque-Regular.woff
+V 20
+file 6h-6.0.r6/44150
+K 32
+glyphicons-halflings-regular.eot
+V 20
+file 6j-6.0.r6/44510
+K 32
+glyphicons-halflings-regular.svg
+V 20
+file c7-6.0.r6/44811
+K 32
+glyphicons-halflings-regular.ttf
+V 20
+file bv-6.0.r6/45125
+K 33
+glyphicons-halflings-regular.woff
+V 20
+file a7-6.0.r6/45492
+K 34
+glyphicons-halflings-regular.woff2
+V 20
+file e0-6.0.r6/45860
+K 21
+lato-bold-webfont.eot
+V 20
+file bj-6.0.r6/46229
+K 21
+lato-bold-webfont.svg
+V 20
+file 40-6.0.r6/46519
+K 21
+lato-bold-webfont.ttf
+V 20
+file 3y-6.0.r6/46822
+K 22
+lato-bold-webfont.woff
+V 20
+file 8k-6.0.r6/47178
+K 23
+lato-bold-webfont.woff2
+V 20
+file 63-6.0.r6/47535
+K 22
+lato-light-webfont.eot
+V 20
+file 3b-6.0.r6/47893
+K 22
+lato-light-webfont.svg
+V 20
+file 85-6.0.r6/48184
+K 22
+lato-light-webfont.ttf
+V 20
+file 7v-6.0.r6/48488
+K 23
+lato-light-webfont.woff
+V 20
+file bn-6.0.r6/48845
+K 24
+lato-light-webfont.woff2
+V 20
+file 79-6.0.r6/49203
+END
+ENDREP
+id: 21-6.0.r6/50546
+type: dir
+count: 0
+text: 6 49496 1037 1037 f7ed89c91bdf8dad5830696bd8016cc0
+cpath: /trunk/01-6-2018/getpost/src/assets/fonts
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6b-6.0.r6/50772
+type: file
+count: 0
+text: 4 2392319 19551 38192 feab530a499a0fecce3e3bdfeb148ff7 f2ef3fda3ca69323004acb6563fd48074086b52d 5-6/_6c
+props: 6 50706 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Accounting Services.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 55-6.0.r6/51128
+type: file
+count: 0
+text: 4 5071262 11096 24720 4704630a2a3d24ebe6a83825b5fdf639 6a0ee29be1dc70d75f689f9d4b07867dd5dd80f7 5-6/_56
+props: 6 51062 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Accounting.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7d-6.0.r6/51475
+type: file
+count: 0
+text: 4 4058479 8893 9158 52e1b15f440666efb91eebb1728491a9 29992b34aed5c0479ddfb5828bbc63c115cb762f 5-6/_7e
+props: 6 51409 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Assurance.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7f-6.0.r6/51819
+type: file
+count: 0
+text: 4 2467385 60332 64202 1b7793ee860e4c50f47e270fa7d8d8f5 8ec0fbbca5b8d799ae4061c53c8d47dbf824d981 5-6/_7g
+props: 6 51753 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner-service-1170.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 42-6.0.r6/52175
+type: file
+count: 0
+text: 4 4006558 28022 29619 39e10af5c3113b3460d69262f4e190eb 2188e1b2122a996243392f762aab7cd3f6fbe46b 5-6/_43
+props: 6 52109 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner-service-480.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 4t-6.0.r6/52530
+type: file
+count: 0
+text: 4 5031236 34801 36403 61e79ae667fa850ede7b70d1b15c3842 6aca0eb059e2b1a4a6da63efd121e71a06e13143 5-6/_4u
+props: 6 52464 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner-service-768.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bl-6.0.r6/52885
+type: file
+count: 0
+text: 4 4569056 61972 65587 149d5d9c9aa4864347dd0d33b86e9614 3df672f3dae7d4cb303991518842b0f46445e01e 5-6/_bm
+props: 6 52819 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner-service-plans-1170.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 30-6.0.r6/53247
+type: file
+count: 0
+text: 4 4634601 29103 30941 3493943afe09aa973fc7274a047cda6f 1c2599dde28fc242735cf86c13142c7aae5a598a 5-6/_31
+props: 6 53181 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner-service-plans-480.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 3i-6.0.r6/53608
+type: file
+count: 0
+text: 4 5162195 37300 39008 e87c7c1a9411cb70a0857636b69cf02a bbf6fc1b38f2279bb04e25acbba4ca3585faca10 5-6/_3j
+props: 6 53542 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner-service-plans-768.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5f-6.0.r6/53969
+type: file
+count: 0
+text: 4 4105498 88957 106357 f4b6074e11bc7dabc9248719701d36ed 8fb6866d7f4bfc38e4629acb59fd14590127f70d 5-6/_5g
+props: 6 53903 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Banner.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: da-6.0.r6/54313
+type: file
+count: 0
+text: 4 4252566 14278 32960 1c6962c7939731709b21d5bdca4ee899 f593f50a79a962a1e0afe67533a403e3ca53e1e0 5-6/_db
+props: 6 54247 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Bookkeeping Services.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5t-6.0.r6/54670
+type: file
+count: 0
+text: 4 1182364 12381 29031 59d702a10e1a6800f9f5f465403d7840 f0b490426e921fee0e201cae8d28f11ebee38806 5-6/_5u
+props: 6 54604 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Business Planning.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5d-6.0.r6/55024
+type: file
+count: 0
+text: 4 4074382 31103 32533 08725f74ebd7354e6d83093628c07cfd b59c4f393977b405af1b11ad740b6de2bbc122dc 5-6/_5e
+props: 6 54958 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Certificates-1.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bp-6.0.r6/55375
+type: file
+count: 0
+text: 4 4704891 20342 21144 f8a244a19f293c81ff67db05df68b80d 6c6adaade07e67b791897ddba4c02d78f2c6e3e3 5-6/_bq
+props: 6 55309 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Certificates-2.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: cu-6.0.r6/55726
+type: file
+count: 0
+text: 4 3346518 106982 107430 8ac054c7736a85133d3e6e99099c55d6 8f5e3ee9ef912aee41e81c4567b04daef8db94fc 5-6/_cv
+props: 6 55660 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/CloudHosting-1170.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 9t-6.0.r6/56082
+type: file
+count: 0
+text: 4 4858255 37123 38136 6d2754f95478d0e7e9e5c4b84f7dd9d2 7dcc8f2e4558821873fb3168d16063c9bcf988c1 5-6/_9u
+props: 6 56016 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/CloudHosting-480.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: ah-6.0.r6/56435
+type: file
+count: 0
+text: 4 1238273 66418 67876 39c10e337a6dc6560afd9ee8e53c7364 07255c079154dff893177c3f7c5c3b378f1282fc 5-6/_ai
+props: 6 56369 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/CloudHosting-768.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5h-6.0.r6/56788
+type: file
+count: 0
+text: 4 136404 965673 965705 34ea3985eeb22c8cdd384ca5d37804ec fa2b1045ebebd5a05953c4c5a554e7042026e45f 5-6/_5i
+props: 6 56722 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/CloudHosting.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7x-6.0.r6/57138
+type: file
+count: 0
+text: 4 3019907 527 510 98e5ef22d4086f6f64106651577723a5 fd1d717b03e7fa5d3eb05c1569a9bc15c5b8980c 5-6/_7y
+props: 6 57072 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Comma.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 87-6.0.r6/57476
+type: file
+count: 0
+text: 4 2537401 15283 16489 71cfc0b117b13f7bec229ede6592ea10 f4d8934ad57eb6fd2de3e92f354584f7a0fbaafb 5-6/_88
+props: 6 57410 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Contact-480.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 9a-6.0.r6/57824
+type: file
+count: 0
+text: 4 2597978 107257 107658 6d7ff504e38a5e7633ebdeac696ef6b3 359eba8beb3f07d8a04bdcb436ebf0aa679e5f4b 5-6/_9b
+props: 6 57758 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Contact.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 3t-6.0.r6/58170
+type: file
+count: 0
+text: 4 3110839 32420 33591 e3d627ad04f2c309808285e63cdacded 4fe80faae6373ba84731e52d2ed2d4a4a6cec826 5-6/_3u
+props: 6 58104 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Home-Banner-480.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 44-6.0.r6/58522
+type: file
+count: 0
+text: 4 4352978 46699 48542 bc299c2a73474c031935da25a5c5b092 f80b8f67dc90e747cb4bc47a21c008cb3e5bb85c 5-6/_45
+props: 6 58456 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Home-Banner-768.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: du-6.0.r6/58874
+type: file
+count: 0
+text: 4 1902083 99289 102692 6e91c5dc82e66e7d325bfa566f432321 b77ff237b72f6068f708f93de857ed8213429994 5-6/_dv
+props: 6 58808 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Home-Banner.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 5l-6.0.r6/59223
+type: file
+count: 0
+text: 4 5148380 5534 11806 a912462bf8562645dd0aa48b9ae8991c 60962a7abe52926ab95d25adbb808affd01274ba 5-6/_5m
+props: 6 59157 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Pattern.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: a5-6.0.r6/59566
+type: file
+count: 0
+text: 4 837 90440 91526 a612c21c77b02d233bdcfe1d387e185e f9f997352ec13177e5cba8598d6129ed38ec3203 5-6/_a6
+props: 6 59500 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Plans-Banner-1.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6x-6.0.r6/59913
+type: file
+count: 0
+text: 4 3647329 173633 179316 373861c932a3f1fa66c3cf0b7801d762 1ce826b1a585ce57a253abaec85f883e93a35134 5-6/_6y
+props: 6 59847 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Plans-Banner.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 8w-6.0.r6/60264
+type: file
+count: 0
+text: 4 2012623 159982 163096 b068012766391168de0a9d12086cce5c b247f5f33b8c0cf7123b9741cb2907000f03bad7 5-6/_8x
+props: 6 60198 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Plans.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 94-6.0.r6/60608
+type: file
+count: 0
+text: 4 4238171 11221 24433 2b1e05001f92773c08043f7fc9f54dcc ed8a84652d9290f139eda9651586ba4f466ab540 5-6/_95
+props: 6 60542 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/QB Logo_72dpi.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: ar-6.0.r6/60958
+type: file
+count: 0
+text: 4 1305097 592042 592236 a185cbdb32e08bf9f421b70c2b1a4bdf 5b95f3fe1ba72348c07fe669d5f6d6e9162c525b 5-6/_as
+props: 6 60892 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Services.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: al-6.0.r6/61305
+type: file
+count: 0
+text: 4 3845661 9272 23382 2a519c634a0e9e036e4ef77eea589a24 87c247ac74c125244d6a9dcbe6b46f378e28e2e6 5-6/_am
+props: 6 61239 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Strategic-Business-Planning.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 8y-6.0.r6/61668
+type: file
+count: 0
+text: 4 2571238 16262 34926 b314086457450bd0c15eaa93d11129eb 2fbeec8f5f6c164b4a6fabd3de4309551f946209 5-6/_8z
+props: 6 61602 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/Tax Service.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 3k-6.0.r6/62016
+type: file
+count: 0
+text: 4 4674018 8972 9238 7428b1d7bbf93fde34d7eaf08ed84037 17d4d1b96866fd62e1370ca76a9feaa07baa3e64 5-6/_3l
+props: 6 61950 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/activity.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bz-6.0.r6/62359
+type: file
+count: 0
+text: 4 4631898 934 1585 bcab86059defd02ee0d4bfad47b3ad64 7ecf12d5be5cdff1275c1c236399e0d6449ae094 5-6/_c0
+props: 6 62293 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/banner_bg.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 83-6.0.r6/62702
+type: file
+count: 0
+text: 4 3540088 9000 9255 1cdd0676136eb10432ca50b0a573aa1a e21f14dbab5b870ff534f4f53ed1c53135a3f73a 5-6/_84
+props: 6 62636 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/bookkeeping.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 7b-6.0.r6/63048
+type: file
+count: 0
+text: 4 1897152 756 1063 4a035262ad6a0261ccf8f4667af3dbbd f0e371253753c719d6c9cafd2d63af69d236d8bf 5-6/_7c
+props: 6 62982 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/button_bg.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bf-6.0.r6/63391
+type: file
+count: 0
+text: 4 2249237 7374 7625 425594568efc3279a0b4dbebd36847a7 a7eb5816922e44a6a7f0368cb842d831e48beb95 5-6/_bg
+props: 6 63325 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/call-eaze.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: e4-6.0.r6/63735
+type: file
+count: 0
+text: 4 4194468 9276 9487 8691d82a4eddaf6214a6897e0f11c40e 73faf44fcc0279a74d93d2e7260964efb763b7ce 5-6/_e5
+props: 6 63669 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/cpa.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: dj-6.0.r6/64073
+type: file
+count: 0
+text: 4 4054825 2424 26622 1c6c251d015e3742f7e0f73ce8de7420 8c9b8bd7d62d61246cd4fcbfaa01114f359e9182 5-6/_dk
+props: 6 64007 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/favicon.ico
+copyroot: 0 /
+
+id: 4c-6.0.r6/64350
+type: file
+count: 0
+text: 4 91290 778 1289 ccbab445097ae784c779c7d2a7049028 44238e668f41df3fa1a9b5be63402f4785affc7d 5-6/_4d
+cpath: /trunk/01-6-2018/getpost/src/assets/img/logo.svg
+copyroot: 0 /
+
+id: 46-6.0.r6/64566
+type: file
+count: 0
+text: 4 4686436 1463 2881 9df464cd7eeca3936278a33bb7ea6169 b0415c8a12ec50c4413d8062d081753385dfdc92 5-6/_47
+cpath: /trunk/01-6-2018/getpost/src/assets/img/logo_old.svg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 2d-6.0.r6/64855
+type: file
+count: 0
+text: 4 1102090 7937 8158 adfdca26b0ba39ecce4a18d3d9945ad6 e592873e28f0e7170f33fc07b7efedc73d145046 5-6/_2f
+props: 6 64789 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/mail-eaze.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: an-6.0.r6/65199
+type: file
+count: 0
+text: 4 4824575 12007 27495 032741ea9ab3d4bd6bc653d6965e99c0 531cd5d5d5ae1b8b6aa1e727a32270d6839332aa 5-6/_ao
+props: 6 65133 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/payroll.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 90-6.0.r6/65543
+type: file
+count: 0
+text: 4 2173710 45786 49099 e2708c3f6e4cdcec6fd4804ea7aca8b6 38458b5905bc4287dd586940578f77bce994b825 5-6/_91
+props: 6 65477 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner-1170.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 6o-6.0.r6/65901
+type: file
+count: 0
+text: 4 3619071 27357 28936 2db675bf556c409a25f8054e9f198422 e6ec8aa631672b4755ab913138b27704a00060f4 5-6/_6p
+props: 6 65835 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner-480.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 75-6.0.r6/66258
+type: file
+count: 0
+text: 4 4790765 33797 35692 b8475ed08610ac17ba881d14e705e96c 991632ad99e5010c8c84c350d4a672e840909a86 5-6/_76
+props: 6 66192 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner-768.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: bh-6.0.r6/66615
+type: file
+count: 0
+text: 4 3031517 58173 62266 4b0b0c5406fe2c0f256cfd9a32418126 b7f02793663e655e336e182145947ed202da12cd 5-6/_bi
+props: 6 66549 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: at-6.0.r6/66968
+type: file
+count: 0
+text: 4 1897921 4149 4132 9e454d0b071138f5d0a2e102c8a78eb9 66dafd81088e354f18934ca6a8713dd9b5f10af1 5-6/_au
+props: 6 66902 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/request_call.png
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: 4e-6.0.r6/67315
+type: file
+count: 0
+text: 4 4898367 132856 140018 fecb1f9660e91265bfa3d3127454c357 5647927f76edd7c5e8e9d3528a596e2e03fa09a8 5-6/_4f
+props: 6 67249 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/support-banner.jpg
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: dy-6.0.r6/67668
+type: file
+count: 0
+text: 4 3020447 9433 9684 24615aca294356cb2b77924654adfdff f54084e94f8e571cae4f6b449318705b3faf5fc7 5-6/_dz
+props: 6 67602 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/assets/img/tax.png
+copyroot: 0 /
+
+PLAIN
+K 23
+Accounting Services.png
+V 20
+file 6b-6.0.r6/50772
+K 14
+Accounting.png
+V 20
+file 55-6.0.r6/51128
+K 13
+Assurance.png
+V 20
+file 7d-6.0.r6/51475
+K 23
+Banner-service-1170.jpg
+V 20
+file 7f-6.0.r6/51819
+K 22
+Banner-service-480.jpg
+V 20
+file 42-6.0.r6/52175
+K 22
+Banner-service-768.jpg
+V 20
+file 4t-6.0.r6/52530
+K 29
+Banner-service-plans-1170.jpg
+V 20
+file bl-6.0.r6/52885
+K 28
+Banner-service-plans-480.jpg
+V 20
+file 30-6.0.r6/53247
+K 28
+Banner-service-plans-768.jpg
+V 20
+file 3i-6.0.r6/53608
+K 10
+Banner.jpg
+V 20
+file 5f-6.0.r6/53969
+K 24
+Bookkeeping Services.png
+V 20
+file da-6.0.r6/54313
+K 21
+Business Planning.png
+V 20
+file 5t-6.0.r6/54670
+K 18
+Certificates-1.jpg
+V 20
+file 5d-6.0.r6/55024
+K 18
+Certificates-2.jpg
+V 20
+file bp-6.0.r6/55375
+K 21
+CloudHosting-1170.jpg
+V 20
+file cu-6.0.r6/55726
+K 20
+CloudHosting-480.jpg
+V 20
+file 9t-6.0.r6/56082
+K 20
+CloudHosting-768.jpg
+V 20
+file ah-6.0.r6/56435
+K 16
+CloudHosting.png
+V 20
+file 5h-6.0.r6/56788
+K 9
+Comma.png
+V 20
+file 7x-6.0.r6/57138
+K 15
+Contact-480.jpg
+V 20
+file 87-6.0.r6/57476
+K 11
+Contact.png
+V 20
+file 9a-6.0.r6/57824
+K 19
+Home-Banner-480.jpg
+V 20
+file 3t-6.0.r6/58170
+K 19
+Home-Banner-768.jpg
+V 20
+file 44-6.0.r6/58522
+K 15
+Home-Banner.jpg
+V 20
+file du-6.0.r6/58874
+K 11
+Pattern.jpg
+V 20
+file 5l-6.0.r6/59223
+K 18
+Plans-Banner-1.jpg
+V 20
+file a5-6.0.r6/59566
+K 16
+Plans-Banner.jpg
+V 20
+file 6x-6.0.r6/59913
+K 9
+Plans.png
+V 20
+file 8w-6.0.r6/60264
+K 17
+QB Logo_72dpi.png
+V 20
+file 94-6.0.r6/60608
+K 12
+Services.png
+V 20
+file ar-6.0.r6/60958
+K 31
+Strategic-Business-Planning.png
+V 20
+file al-6.0.r6/61305
+K 15
+Tax Service.png
+V 20
+file 8y-6.0.r6/61668
+K 12
+activity.png
+V 20
+file 3k-6.0.r6/62016
+K 13
+banner_bg.jpg
+V 20
+file bz-6.0.r6/62359
+K 15
+bookkeeping.png
+V 20
+file 83-6.0.r6/62702
+K 13
+button_bg.png
+V 20
+file 7b-6.0.r6/63048
+K 13
+call-eaze.png
+V 20
+file bf-6.0.r6/63391
+K 7
+cpa.png
+V 20
+file e4-6.0.r6/63735
+K 11
+favicon.ico
+V 20
+file dj-6.0.r6/64073
+K 8
+logo.svg
+V 20
+file 4c-6.0.r6/64350
+K 12
+logo_old.svg
+V 20
+file 46-6.0.r6/64566
+K 13
+mail-eaze.png
+V 20
+file 2d-6.0.r6/64855
+K 11
+payroll.png
+V 20
+file an-6.0.r6/65199
+K 25
+qbsupport-Banner-1170.jpg
+V 20
+file 90-6.0.r6/65543
+K 24
+qbsupport-Banner-480.jpg
+V 20
+file 6o-6.0.r6/65901
+K 24
+qbsupport-Banner-768.jpg
+V 20
+file 75-6.0.r6/66258
+K 20
+qbsupport-Banner.jpg
+V 20
+file bh-6.0.r6/66615
+K 16
+request_call.png
+V 20
+file at-6.0.r6/66968
+K 18
+support-banner.jpg
+V 20
+file 4e-6.0.r6/67315
+K 7
+tax.png
+V 20
+file dy-6.0.r6/67668
+END
+ENDREP
+id: 22-6.0.r6/70401
+type: dir
+count: 0
+text: 6 67940 2448 2448 4d46747bff0d62ee6779b8941c8523f2
+cpath: /trunk/01-6-2018/getpost/src/assets/img
+copyroot: 0 /
+
+id: d4-6.0.r6/70559
+type: file
+count: 0
+text: 4 1116895 15805 100882 2e7d55009fcb7c71c9d4070df76d094b d3790baf13ba93fb4e94952111274b5a96edbdb9 5-6/_d5
+cpath: /trunk/01-6-2018/getpost/src/assets/js/bootstrap-datetimepicker.js
+copyroot: 0 /
+
+id: 8f-6.0.r6/70799
+type: file
+count: 0
+text: 4 2553266 14396 68890 8015042d0b4ac125867af5b096b175ce bbf55e20f1ebb6368522799f29db39830a08ef93 5-6/_8g
+cpath: /trunk/01-6-2018/getpost/src/assets/js/bootstrap.js
+copyroot: 0 /
+
+id: 61-6.0.r6/71023
+type: file
+count: 0
+text: 4 4664160 9845 36816 4becdc9104623e891fbb9d38bba01be4 6c264e0e0026ab5ece49350c6a8812398e696cbb 5-6/_62
+cpath: /trunk/01-6-2018/getpost/src/assets/js/bootstrap.min.js
+copyroot: 0 /
+
+id: dw-6.0.r6/71250
+type: file
+count: 0
+text: 4 99138 4326 13428 efa0c6a582d59d12cfd4882140139237 6744574321d1c39ddde6ee6da384dc90d9398753 5-6/_dx
+cpath: /trunk/01-6-2018/getpost/src/assets/js/index1.php
+copyroot: 0 /
+
+id: 5v-6.0.r6/71469
+type: file
+count: 0
+text: 4 2304398 84212 273199 91515770ce8c55de23b306444d8ea998 1d85f0f3464e5e49b0522744bf7314e176ac76d9 5-6/_5x
+cpath: /trunk/01-6-2018/getpost/src/assets/js/jquery-1.10.2.js
+copyroot: 0 /
+
+id: ap-6.0.r6/71698
+type: file
+count: 0
+text: 4 2744164 119909 470596 04a4db2983450a2970c459ba87b4210a 3efaf11e60ea8c541b6dc26f0ef09f195732587a 5-6/_aq
+cpath: /trunk/01-6-2018/getpost/src/assets/js/jquery-ui.js
+copyroot: 0 /
+
+id: cl-6.0.r6/71924
+type: file
+count: 0
+text: 4 4634016 501 484 ccb7f3909e30b1eb8f65a24393c6e12b e2b7590d6ec1fdac66b01fdf66ae0879f53b1262 5-6/_cm
+cpath: /trunk/01-6-2018/getpost/src/assets/js/npm.js
+copyroot: 0 /
+
+PLAIN
+K 27
+bootstrap-datetimepicker.js
+V 20
+file d4-6.0.r6/70559
+K 12
+bootstrap.js
+V 20
+file 8f-6.0.r6/70799
+K 16
+bootstrap.min.js
+V 20
+file 61-6.0.r6/71023
+K 10
+index1.php
+V 20
+file dw-6.0.r6/71250
+K 16
+jquery-1.10.2.js
+V 20
+file 5v-6.0.r6/71469
+K 12
+jquery-ui.js
+V 20
+file ap-6.0.r6/71698
+K 6
+npm.js
+V 20
+file cl-6.0.r6/71924
+END
+ENDREP
+id: 23-6.0.r6/72477
+type: dir
+count: 0
+text: 6 72138 326 326 fc68a20715e9c778ba41a2c75cfed1ea
+cpath: /trunk/01-6-2018/getpost/src/assets/js
+copyroot: 0 /
+
+PLAIN
+K 8
+.gitkeep
+V 20
+file df-6.0.r6/40489
+K 3
+css
+V 19
+dir 1z-6.0.r6/43210
+K 5
+fonts
+V 19
+dir 21-6.0.r6/50546
+K 3
+img
+V 19
+dir 22-6.0.r6/70401
+K 2
+js
+V 19
+dir 23-6.0.r6/72477
+END
+ENDREP
+id: 1y-6.0.r6/72821
+type: dir
+count: 0
+text: 6 72632 176 176 03bec3d4419c2d298950d92eec91a348
+cpath: /trunk/01-6-2018/getpost/src/assets
+copyroot: 0 /
+
+id: 6f-6.0.r6/72973
+type: file
+count: 0
+text: 2 216749 392 375 ebde95dfbb1d031e3cfcf49e4f898743 60da0e2e2ee9dd17ee2718f2ea7c5c508c0fa4f7 5-6/_6g
+cpath: /trunk/01-6-2018/getpost/src/browserslist
+copyroot: 0 /
+
+id: cn-6.0.r6/73182
+type: file
+count: 0
+text: 2 217154 63 51 6de221395114600b523995704b7d1caa c21ef44af2edc223b19df1938054f58d35a8517e 5-6/_co
+cpath: /trunk/01-6-2018/getpost/src/environments/environment.prod.ts
+copyroot: 0 /
+
+id: a9-6.0.r6/73409
+type: file
+count: 0
+text: 2 217230 399 631 a146518d07dd332cc3192489840efb20 acefc17535b27910f65314fa0e96cd2e60b6ce4a 5-6/_ab
+cpath: /trunk/01-6-2018/getpost/src/environments/environment.ts
+copyroot: 0 /
+
+PLAIN
+K 19
+environment.prod.ts
+V 20
+file cn-6.0.r6/73182
+K 14
+environment.ts
+V 20
+file a9-6.0.r6/73409
+END
+ENDREP
+id: 24-6.0.r6/73747
+type: dir
+count: 0
+text: 6 73633 101 101 f4b9423ac02074b1752b481089c9c62a
+cpath: /trunk/01-6-2018/getpost/src/environments
+copyroot: 0 /
+
+PLAIN
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END
+ENDREP
+id: d6-6.0.r6/73971
+type: file
+count: 0
+text: 2 217642 1436 5430 b9aa7c338693424aae99599bec875b5f 84161b857f5c547e3699ddfbffc6d8d737542e01 5-6/_d7
+props: 6 73905 53 53 113136892f2137aa0116093a524ade0b
+cpath: /trunk/01-6-2018/getpost/src/favicon.ico
+copyroot: 0 /
+
+id: 5n-6.0.r6/74235
+type: file
+count: 0
+text: 4 4632845 480 1434 dec3b0cdda9b2f8f891d8d6be924b02e a794912a192c5f315fa224fbb49b2505f74fecca 5-6/_5o
+cpath: /trunk/01-6-2018/getpost/src/index.html
+copyroot: 0 /
+
+id: cy-6.0.r6/74444
+type: file
+count: 0
+text: 2 219420 506 964 be570be20b6733c888a3c505eff44253 2052650e06c67881ad0bebe05f92b32178204b2e 5-6/_cz
+cpath: /trunk/01-6-2018/getpost/src/karma.conf.js
+copyroot: 0 /
+
+id: 6q-6.0.r6/74654
+type: file
+count: 0
+text: 2 219939 387 370 067b7f93be4fcbf21789dfadd4f11f28 afdcf146479e66bc1d812025e2a488daed9aa6f2 5-6/_6r
+cpath: /trunk/01-6-2018/getpost/src/main.ts
+copyroot: 0 /
+
+id: 9i-6.0.r6/74858
+type: file
+count: 0
+text: 2 220339 1275 3194 3dba718d7afe009e112e10d69073d2a2 7b7b6d0fd5d410ac97ad06d22cc79938abc1599d 5-6/_9j
+cpath: /trunk/01-6-2018/getpost/src/polyfills.ts
+copyroot: 0 /
+
+id: a0-6.0.r6/75069
+type: file
+count: 0
+text: 2 221627 93 80 ac89bfdd6de82636b7680c8b96584c96 9c9e71dbdbe02f1b920ac62124d689fc1573da81 5-6/_a1
+cpath: /trunk/01-6-2018/getpost/src/styles.css
+copyroot: 0 /
+
+id: 8d-6.0.r6/75274
+type: file
+count: 0
+text: 2 221733 351 642 3ddc24a1929f2cfe1b835548aaaa54f3 618f8ce99a27426951dd5e8e5742249aace331f1 5-6/_8e
+cpath: /trunk/01-6-2018/getpost/src/test.ts
+copyroot: 0 /
+
+id: 9k-6.0.r6/75478
+type: file
+count: 0
+text: 2 222097 211 194 cc170f1fade0510befc2e5719f48f556 c5751d5ec730e6c65c452e4a8c62ce1874f6716a 5-6/_9l
+cpath: /trunk/01-6-2018/getpost/src/tsconfig.app.json
+copyroot: 0 /
+
+id: 6z-6.0.r6/75692
+type: file
+count: 0
+text: 2 222321 299 282 793bf9465eb77064fc0926fbf15c0bf8 5294bf5e1b6b61bb65880ea9a650ed92a9e8d1b2 5-6/_70
+cpath: /trunk/01-6-2018/getpost/src/tsconfig.spec.json
+copyroot: 0 /
+
+id: ax-6.0.r6/75907
+type: file
+count: 0
+text: 2 222633 331 314 076f57fdd2a3552afba0f31801729e11 cc2bc3b40e44b7d79a27080dd77d8363ed84e021 5-6/_ay
+cpath: /trunk/01-6-2018/getpost/src/tslint.json
+copyroot: 0 /
+
+PLAIN
+K 3
+app
+V 19
+dir 1q-6.0.r6/40340
+K 6
+assets
+V 19
+dir 1y-6.0.r6/72821
+K 12
+browserslist
+V 20
+file 6f-6.0.r6/72973
+K 12
+environments
+V 19
+dir 24-6.0.r6/73747
+K 11
+favicon.ico
+V 20
+file d6-6.0.r6/73971
+K 10
+index.html
+V 20
+file 5n-6.0.r6/74235
+K 13
+karma.conf.js
+V 20
+file cy-6.0.r6/74444
+K 7
+main.ts
+V 20
+file 6q-6.0.r6/74654
+K 12
+polyfills.ts
+V 20
+file 9i-6.0.r6/74858
+K 10
+styles.css
+V 20
+file a0-6.0.r6/75069
+K 7
+test.ts
+V 20
+file 8d-6.0.r6/75274
+K 17
+tsconfig.app.json
+V 20
+file 9k-6.0.r6/75478
+K 18
+tsconfig.spec.json
+V 20
+file 6z-6.0.r6/75692
+K 11
+tslint.json
+V 20
+file ax-6.0.r6/75907
+END
+ENDREP
+id: 1p-6.0.r6/76722
+type: dir
+count: 0
+text: 6 76115 594 594 a174d5c6e29bfcf89f6b454316104736
+cpath: /trunk/01-6-2018/getpost/src
+copyroot: 0 /
+
+id: 7z-6.0.r6/76867
+type: file
+count: 0
+text: 2 222977 401 384 bc5c8b248788faa1134890496b79cb53 d45f54df88fc618e3a378b89f0e90e3ebe845380 5-6/_80
+cpath: /trunk/01-6-2018/getpost/tsconfig.json
+copyroot: 0 /
+
+id: 3p-6.0.r6/77073
+type: file
+count: 0
+text: 2 223391 884 2805 604f4775d8a031dd19d920f6cac88bf3 b317cba9bb9704ce60db61f6488cc1ed213e132a 5-6/_3q
+cpath: /trunk/01-6-2018/getpost/tslint.json
+copyroot: 0 /
+
+PLAIN
+K 13
+.editorconfig
+V 16
+file bt-6.0.r6/0
+K 4
+.git
+V 18
+dir 4-6.0.r6/29729
+K 10
+.gitignore
+V 20
+file 8u-6.0.r6/29874
+K 9
+README.md
+V 20
+file 2b-6.0.r6/30077
+K 12
+angular.json
+V 20
+file bx-6.0.r6/30281
+K 3
+e2e
+V 19
+dir 1m-6.0.r6/31743
+K 17
+package-lock.json
+V 20
+file 6d-6.0.r6/31888
+K 12
+package.json
+V 20
+file 5p-6.0.r6/32104
+K 3
+src
+V 19
+dir 1p-6.0.r6/76722
+K 13
+tsconfig.json
+V 20
+file 7z-6.0.r6/76867
+K 11
+tslint.json
+V 20
+file 3p-6.0.r6/77073
+END
+ENDREP
+id: 2-6.0.r6/77742
+type: dir
+count: 0
+text: 6 77278 451 451 523495154bd6b525340185feaad42140
+cpath: /trunk/01-6-2018/getpost
+copyroot: 0 /
+
+PLAIN
+K 7
+getpost
+V 18
+dir 2-6.0.r6/77742
+K 4
+node
+V 21
+dir 26-4.0.r4/5430226
+END
+ENDREP
+id: 1-4.0.r6/77971
+type: dir
+pred: 1-4.0.r5/53
+count: 2
+text: 6 77882 76 76 ae30613510553d5a709018b16428984a
+cpath: /trunk/01-6-2018
+copyroot: 0 /
+
+PLAIN
+K 9
+01-6-2018
+V 18
+dir 1-4.0.r6/77971
+K 9
+18-5-2018
+V 19
+dir 1-2.0.r2/264548
+K 9
+25-5-2018
+V 20
+dir 1-3.0.r3/1297562
+END
+ENDREP
+id: 0-1.0.r6/78253
+type: dir
+pred: 0-1.0.r5/330
+count: 5
+text: 6 78119 121 121 66894000844510a7124a605891752db3
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 2-1.0.r1/0
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 18
+dir 0-1.0.r6/78253
+END
+ENDREP
+id: 0.0.r6/78508
+type: dir
+pred: 0.0.r5/583
+count: 6
+text: 6 78394 101 101 8005150c570acf64eb39bc4322343194
+cpath: /
+copyroot: 0 /
+
+_2.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost
+
+_bt.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.editorconfig
+
+_4.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git
+
+_8s.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/COMMIT_EDITMSG
+
+_48.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/HEAD
+
+_71.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/config
+
+_d0.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/description
+
+_6.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/hooks
+
+_2j.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/applypatch-msg.sample
+
+_3g.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/commit-msg.sample
+
+_4v.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/post-update.sample
+
+_9m.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/pre-applypatch.sample
+
+_50.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/pre-commit.sample
+
+_ch.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/pre-push.sample
+
+_89.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/pre-rebase.sample
+
+_cs.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/prepare-commit-msg.sample
+
+_3r.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/hooks/update.sample
+
+_ac.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/index
+
+_8.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/info
+
+_bc.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/info/exclude
+
+_9.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/logs
+
+_5r.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/logs/HEAD
+
+_a.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/logs/refs
+
+_c.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/logs/refs/heads
+
+_65.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/logs/refs/heads/master
+
+_e.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects
+
+_f.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/01
+
+_9x.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/01/2182efa3b9bb5cf84e1b8a9f188025432e789e
+
+_h.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/15
+
+_25.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/15/a3bc2f5d0609fe5db84d4dfb296fad635b6d27
+
+_i.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/16
+
+_b9.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/16/317897b1c50a3a71bc775a8d6429f2b4c6cf98
+
+_j.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/27
+
+_2p.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/27/c55e85b7b14bca5ed31fd0c9ae91794fc90604
+
+_k.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/36
+
+_cp.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/36/12073bc31cd4c1f5d6cbb00318521e9a61bd8a
+
+_l.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/3a
+
+_dc.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/3a/379b37f579247fcdde4fd436cca1d0add57cbb
+
+_m.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/3e
+
+_7n.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/3e/a984c776ef691c92b37ddf933df452cdc3d8bc
+
+_n.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/3f
+
+_a2.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/3f/c8837ee5ad71ab4d85f5e6bff35d6f4a800cbb
+
+_o.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/51
+
+_5y.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/51/88dc537f942c89baeaf845206036ff3bfe78ae
+
+_p.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/52
+
+_ce.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/52/e2c1a5a74ce268bec92d34cd3bca751624adb3
+
+_q.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/62
+
+_c9.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/62/bb613b87f8862481a2f643c70d06a188556a94
+
+_r.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/6e
+
+_5a.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/6e/87a003da89defd554080af5af93600cc9f91fe
+
+_s.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/72
+
+_7h.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/72/2c370d58793cdaed688bd365de5cedb643e565
+
+_2m.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/72/db23c6eb07761a407fc3dd9cb286351d562aa3
+
+_t.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/7b
+
+_c1.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/7b/0f67283151427327b47fed20bcea1ea943cf2f
+
+_u.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/80
+
+_2x.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/80/81c7ceaf2be08bf59010158c586170d9d2d517
+
+_v.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/82
+
+_8m.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/82/ea75ba504ab2726e4bd08d89e69e99b7a711ba
+
+_w.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/86
+
+_52.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/86/776a391a5b48b32506eb0fa62b15ed6c926b69
+
+_x.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/8e
+
+_7s.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/8e/09ab492e26c2b2c0920a75dd795811f5815369
+
+_y.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/8f
+
+_cc.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/8f/7a769dcebaeaf64f0e8b71851f921a5338006d
+
+_9o.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/8f/7cedecab86d7612d16ec994e222f92f837f1c0
+
+_z.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/90
+
+_4q.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/90/d4ee0072ce3fc41812f8af910219f9eea3c3de
+
+_10.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/91
+
+_dp.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/91/ec6da5f07886cf1d97b5d4212f4ddaa3eb2c9c
+
+_11.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/a4
+
+_28.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/a4/32217ed6dd27a89f042e04f83cb8ac19839e40
+
+_12.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/a6
+
+_38.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/a6/dd6220282460dae17d69fc030b94ab1e81d960
+
+_13.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/b5
+
+_8p.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/b5/084854f6070dd462082c06c0c328e0b92fbee5
+
+_14.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/b6
+
+_8h.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/b6/e00421c95f925352ccf765b942a8e94c0cdc74
+
+_15.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/c4
+
+_c4.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/c4/a8437599596b695e3b6f3657c6aeed1256fc01
+
+_16.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/d3
+
+_32.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/d3/10405a6817a4b84bb6117fb709e2c6ea11ef55
+
+_17.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/d5
+
+_b4.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/d5/64d0bc3dd917926892c55e3706cc116d5b165e
+
+_18.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/d8
+
+_4x.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/d8/eb4820cdc2432291741173357c6fbc29262bd0
+
+_19.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/e4
+
+_6l.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/e4/2d1f965ff39151951ec25073478990de9d6287
+
+_1a.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/e6
+
+_ae.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+_1b.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/ee
+
+_9c.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/ee/5c9d8336b76b3bb5658d0888bdec86eb7b0990
+
+_1c.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/ef
+
+_57.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/objects/ef/44e2862b0486ce9e4c6bfeca2eeaf242c57a94
+
+_1d.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/f6
+
+_9f.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/f6/5716351aa5930fea545e1e3f016e2980c1f483
+
+_1e.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/fa
+
+_2s.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/fa/2706a406ba65e05f8e23003ce6e9df291fa146
+
+_1f.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/fe
+
+_35.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/.git/objects/fe/2e653112a04fa79ceda4867cde2fbdd6ea58ae
+
+_1g.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/info
+
+_1h.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/objects/pack
+
+_1i.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/refs
+
+_1j.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/refs/heads
+
+_b1.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.git/refs/heads/master
+
+_1l.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/.git/refs/tags
+
+_8u.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/.gitignore
+
+_2b.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/README.md
+
+_bx.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/angular.json
+
+_1m.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/e2e
+
+_dn.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/e2e/protractor.conf.js
+
+_1n.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/e2e/src
+
+_77.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/e2e/src/app.e2e-spec.ts
+
+_68.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/e2e/src/app.po.ts
+
+_aj.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/e2e/tsconfig.e2e.json
+
+_6d.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/package-lock.json
+
+_5p.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/package.json
+
+_1p.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src
+
+_1q.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/app
+
+_cw.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/app.component.css
+
+_e2.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/app.component.html
+
+_2v.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/app.component.spec.ts
+
+_92.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/app.component.ts
+
+_5j.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/app.module.ts
+
+_1s.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/app/contact
+
+_81.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/contact/contact.component.css
+
+_6u.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/contact/contact.component.html
+
+_av.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/contact/contact.component.spec.ts
+
+_7q.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/contact/contact.component.ts
+
+_1u.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/app/footer
+
+_8b.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/footer/footer.component.css
+
+_4n.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/footer/footer.component.html
+
+_b7.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/footer/footer.component.spec.ts
+
+_br.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/footer/footer.component.ts
+
+_1v.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/app/header
+
+_ds.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/header/header.component.css
+
+_3v.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/header/header.component.html
+
+_4j.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/header/header.component.spec.ts
+
+_az.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/header/header.component.ts
+
+_1w.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/app/main
+
+_73.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/main/main.component.css
+
+_98.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/main/main.component.html
+
+_9r.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/main/main.component.spec.ts
+
+_4g.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/main/main.component.ts
+
+_1x.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/app/sidebar
+
+_96.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.css
+
+_2g.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.html
+
+_cj.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.spec.ts
+
+_3e.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/app/sidebar/sidebar.component.ts
+
+_1y.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/assets
+
+_df.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/.gitkeep
+
+_1z.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/assets/css
+
+_d2.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/bootstrap-theme.css
+
+_6s.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/bootstrap-theme.css.map
+
+_dl.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/bootstrap-theme.min.css
+
+_3m.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/bootstrap.css
+
+_9v.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/bootstrap.css.map
+
+_4l.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/bootstrap.min.css
+
+_dh.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/jquery-ui.css
+
+_4a.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/master.css
+
+_7j.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/css/mystyle.css
+
+_21.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/assets/fonts
+
+_7l.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/Geogrotesque-Regular.eot
+
+_d8.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/Geogrotesque-Regular.ttf
+
+_6h.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/Geogrotesque-Regular.woff
+
+_6j.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.eot
+
+_c7.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.svg
+
+_bv.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.ttf
+
+_a7.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.woff
+
+_e0.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/glyphicons-halflings-regular.woff2
+
+_bj.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.eot
+
+_40.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.svg
+
+_3y.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.ttf
+
+_8k.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.woff
+
+_63.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-bold-webfont.woff2
+
+_3b.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.eot
+
+_85.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.svg
+
+_7v.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.ttf
+
+_bn.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.woff
+
+_79.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/fonts/lato-light-webfont.woff2
+
+_22.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/assets/img
+
+_6b.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Accounting Services.png
+
+_55.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Accounting.png
+
+_7d.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Assurance.png
+
+_7f.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner-service-1170.jpg
+
+_42.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner-service-480.jpg
+
+_4t.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner-service-768.jpg
+
+_bl.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner-service-plans-1170.jpg
+
+_30.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner-service-plans-480.jpg
+
+_3i.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner-service-plans-768.jpg
+
+_5f.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Banner.jpg
+
+_da.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Bookkeeping Services.png
+
+_5t.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Business Planning.png
+
+_5d.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Certificates-1.jpg
+
+_bp.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Certificates-2.jpg
+
+_cu.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/CloudHosting-1170.jpg
+
+_9t.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/CloudHosting-480.jpg
+
+_ah.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/CloudHosting-768.jpg
+
+_5h.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/CloudHosting.png
+
+_7x.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Comma.png
+
+_87.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Contact-480.jpg
+
+_9a.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Contact.png
+
+_3t.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Home-Banner-480.jpg
+
+_44.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Home-Banner-768.jpg
+
+_du.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Home-Banner.jpg
+
+_5l.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Pattern.jpg
+
+_a5.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Plans-Banner-1.jpg
+
+_6x.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Plans-Banner.jpg
+
+_8w.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Plans.png
+
+_94.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/QB Logo_72dpi.png
+
+_ar.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Services.png
+
+_al.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Strategic-Business-Planning.png
+
+_8y.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/Tax Service.png
+
+_3k.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/activity.png
+
+_bz.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/banner_bg.jpg
+
+_83.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/bookkeeping.png
+
+_7b.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/button_bg.png
+
+_bf.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/call-eaze.png
+
+_e4.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/cpa.png
+
+_dj.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/favicon.ico
+
+_4c.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/img/logo.svg
+
+_46.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/img/logo_old.svg
+
+_2d.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/mail-eaze.png
+
+_an.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/payroll.png
+
+_90.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner-1170.jpg
+
+_6o.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner-480.jpg
+
+_75.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner-768.jpg
+
+_bh.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/qbsupport-Banner.jpg
+
+_at.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/request_call.png
+
+_4e.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/support-banner.jpg
+
+_dy.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/assets/img/tax.png
+
+_23.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/assets/js
+
+_d4.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/bootstrap-datetimepicker.js
+
+_8f.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/bootstrap.js
+
+_61.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/bootstrap.min.js
+
+_dw.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/index1.php
+
+_5v.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/jquery-1.10.2.js
+
+_ap.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/jquery-ui.js
+
+_cl.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/assets/js/npm.js
+
+_6f.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/browserslist
+
+_24.0.t5-6 add-dir false false false /trunk/01-6-2018/getpost/src/environments
+
+_cn.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/environments/environment.prod.ts
+
+_a9.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/environments/environment.ts
+
+_d6.0.t5-6 add-file true true false /trunk/01-6-2018/getpost/src/favicon.ico
+
+_5n.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/index.html
+
+_cy.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/karma.conf.js
+
+_6q.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/main.ts
+
+_9i.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/polyfills.ts
+
+_a0.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/styles.css
+
+_8d.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/test.ts
+
+_9k.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/tsconfig.app.json
+
+_6z.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/tsconfig.spec.json
+
+_ax.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/src/tslint.json
+
+_7z.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/tsconfig.json
+
+_3p.0.t5-6 add-file true false false /trunk/01-6-2018/getpost/tslint.json
+
+
+78508 78640

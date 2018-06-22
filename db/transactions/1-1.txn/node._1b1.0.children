@@ -1,0 +1,45 @@
+END
+K 12
+backend.d.ts
+V 16
+file _1b2.0.t1-1
+K 11
+client.d.ts
+V 16
+file _1b5.0.t1-1
+K 12
+headers.d.ts
+V 16
+file _1b7.0.t1-1
+K 16
+interceptor.d.ts
+V 16
+file _1b9.0.t1-1
+K 10
+jsonp.d.ts
+V 16
+file _1bb.0.t1-1
+K 11
+module.d.ts
+V 16
+file _1bd.0.t1-1
+K 11
+params.d.ts
+V 16
+file _1bf.0.t1-1
+K 12
+request.d.ts
+V 16
+file _1bh.0.t1-1
+K 13
+response.d.ts
+V 16
+file _1bj.0.t1-1
+K 8
+xhr.d.ts
+V 16
+file _1bl.0.t1-1
+K 9
+xsrf.d.ts
+V 16
+file _1bn.0.t1-1

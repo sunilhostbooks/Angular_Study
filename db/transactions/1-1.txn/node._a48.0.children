@@ -1,0 +1,37 @@
+END
+K 5
+.name
+V 16
+file _a4a.0.t1-1
+K 13
+encodings.xml
+V 16
+file _a4d.0.t1-1
+K 21
+jsLibraryMappings.xml
+V 16
+file _a4f.0.t1-1
+K 9
+libraries
+V 15
+dir _a4h.0.t1-1
+K 11
+modules.xml
+V 16
+file _a4l.0.t1-1
+K 22
+node-app-root-path.iml
+V 16
+file _a4n.0.t1-1
+K 6
+scopes
+V 15
+dir _a4p.0.t1-1
+K 7
+vcs.xml
+V 16
+file _a4t.0.t1-1
+K 13
+workspace.xml
+V 16
+file _a4v.0.t1-1

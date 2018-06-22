@@ -1,0 +1,45 @@
+END
+K 15
+cli-logger.d.ts
+V 16
+file _8es.0.t1-1
+K 13
+cli-logger.js
+V 16
+file _8ev.0.t1-1
+K 7
+fs.d.ts
+V 16
+file _8ex.0.t1-1
+K 5
+fs.js
+V 16
+file _8ez.0.t1-1
+K 9
+host.d.ts
+V 16
+file _8f1.0.t1-1
+K 7
+host.js
+V 16
+file _8f3.0.t1-1
+K 10
+index.d.ts
+V 16
+file _8f5.0.t1-1
+K 8
+index.js
+V 16
+file _8f7.0.t1-1
+K 12
+resolve.d.ts
+V 16
+file _8f9.0.t1-1
+K 10
+resolve.js
+V 16
+file _8fb.0.t1-1
+K 7
+testing
+V 15
+dir _8fd.0.t1-1

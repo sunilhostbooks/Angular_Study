@@ -1,0 +1,25 @@
+END
+K 10
+.npmignore
+V 16
+file _dr6.0.t1-1
+K 15
+README.markdown
+V 16
+file _dr9.0.t1-1
+K 7
+example
+V 15
+dir _drb.0.t1-1
+K 8
+index.js
+V 16
+file _drh.0.t1-1
+K 12
+package.json
+V 16
+file _drj.0.t1-1
+K 4
+test
+V 15
+dir _drl.0.t1-1

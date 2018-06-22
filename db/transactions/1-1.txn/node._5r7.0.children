@@ -1,0 +1,77 @@
+END
+K 11
+diagnostics
+V 15
+dir _5r8.0.t1-1
+K 17
+extract_i18n.d.ts
+V 16
+file _5rz.0.t1-1
+K 15
+extract_i18n.js
+V 16
+file _5s1.0.t1-1
+K 22
+language_services.d.ts
+V 16
+file _5s3.0.t1-1
+K 20
+language_services.js
+V 16
+file _5s5.0.t1-1
+K 9
+main.d.ts
+V 16
+file _5s7.0.t1-1
+K 7
+main.js
+V 16
+file _5s9.0.t1-1
+K 8
+metadata
+V 15
+dir _5sb.0.t1-1
+K 16
+ngtools_api.d.ts
+V 16
+file _5t9.0.t1-1
+K 14
+ngtools_api.js
+V 16
+file _5tb.0.t1-1
+K 17
+ngtools_api2.d.ts
+V 16
+file _5td.0.t1-1
+K 15
+ngtools_api2.js
+V 16
+file _5tf.0.t1-1
+K 20
+perform_compile.d.ts
+V 16
+file _5th.0.t1-1
+K 18
+perform_compile.js
+V 16
+file _5tj.0.t1-1
+K 18
+perform_watch.d.ts
+V 16
+file _5tl.0.t1-1
+K 16
+perform_watch.js
+V 16
+file _5tn.0.t1-1
+K 12
+transformers
+V 15
+dir _5tp.0.t1-1
+K 12
+version.d.ts
+V 16
+file _5vb.0.t1-1
+K 10
+version.js
+V 16
+file _5vd.0.t1-1

@@ -1,0 +1,61 @@
+END
+K 8
+backends
+V 15
+dir _71q.0.t1-1
+K 25
+base_request_options.d.ts
+V 16
+file _721.0.t1-1
+K 26
+base_response_options.d.ts
+V 16
+file _723.0.t1-1
+K 9
+body.d.ts
+V 16
+file _725.0.t1-1
+K 10
+enums.d.ts
+V 16
+file _727.0.t1-1
+K 12
+headers.d.ts
+V 16
+file _729.0.t1-1
+K 9
+http.d.ts
+V 16
+file _72b.0.t1-1
+K 16
+http_module.d.ts
+V 16
+file _72d.0.t1-1
+K 15
+http_utils.d.ts
+V 16
+file _72f.0.t1-1
+K 10
+index.d.ts
+V 16
+file _72h.0.t1-1
+K 15
+interfaces.d.ts
+V 16
+file _72j.0.t1-1
+K 19
+static_request.d.ts
+V 16
+file _72l.0.t1-1
+K 20
+static_response.d.ts
+V 16
+file _72n.0.t1-1
+K 22
+url_search_params.d.ts
+V 16
+file _72p.0.t1-1
+K 12
+version.d.ts
+V 16
+file _72r.0.t1-1

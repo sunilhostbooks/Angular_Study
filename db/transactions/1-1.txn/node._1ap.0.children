@@ -1,0 +1,37 @@
+END
+K 9
+http.d.ts
+V 16
+file _1aq.0.t1-1
+K 18
+http.metadata.json
+V 16
+file _1at.0.t1-1
+K 10
+index.d.ts
+V 16
+file _1av.0.t1-1
+K 12
+package.json
+V 16
+file _1ax.0.t1-1
+K 15
+public_api.d.ts
+V 16
+file _1az.0.t1-1
+K 3
+src
+V 15
+dir _1b1.0.t1-1
+K 7
+testing
+V 15
+dir _1bp.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _1cb.0.t1-1
+K 21
+testing.metadata.json
+V 16
+file _1cd.0.t1-1

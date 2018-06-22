@@ -1,0 +1,49 @@
+END
+K 13
+.clang-format
+V 16
+file _biq.0.t1-1
+K 6
+.nvmrc
+V 16
+file _bit.0.t1-1
+K 7
+LICENSE
+V 16
+file _biv.0.t1-1
+K 9
+README.md
+V 16
+file _bix.0.t1-1
+K 5
+built
+V 15
+dir _biz.0.t1-1
+K 10
+circle.yml
+V 16
+file _bl3.0.t1-1
+K 8
+examples
+V 15
+dir _bl5.0.t1-1
+K 11
+gulpfile.js
+V 16
+file _bld.0.t1-1
+K 12
+node_modules
+V 15
+dir _blf.0.t1-1
+K 12
+package.json
+V 16
+file _bmr.0.t1-1
+K 13
+tsconfig.json
+V 16
+file _bmt.0.t1-1
+K 11
+tslint.json
+V 16
+file _bmv.0.t1-1

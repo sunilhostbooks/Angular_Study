@@ -1,0 +1,37 @@
+END
+K 10
+.npmignore
+V 16
+file _afs.0.t1-1
+K 11
+.travis.yml
+V 16
+file _afv.0.t1-1
+K 9
+.zuul.yml
+V 16
+file _afx.0.t1-1
+K 7
+LICENSE
+V 16
+file _afz.0.t1-1
+K 9
+README.md
+V 16
+file _ag1.0.t1-1
+K 9
+assert.js
+V 16
+file _ag3.0.t1-1
+K 12
+node_modules
+V 15
+dir _ag5.0.t1-1
+K 12
+package.json
+V 16
+file _ahr.0.t1-1
+K 7
+test.js
+V 16
+file _aht.0.t1-1

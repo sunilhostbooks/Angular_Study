@@ -1,0 +1,49 @@
+END
+K 15
+class-fold.d.ts
+V 16
+file _8ds.0.t1-1
+K 13
+class-fold.js
+V 16
+file _8dv.0.t1-1
+K 17
+import-tslib.d.ts
+V 16
+file _8dx.0.t1-1
+K 15
+import-tslib.js
+V 16
+file _8dz.0.t1-1
+K 19
+prefix-classes.d.ts
+V 16
+file _8e1.0.t1-1
+K 17
+prefix-classes.js
+V 16
+file _8e3.0.t1-1
+K 21
+prefix-functions.d.ts
+V 16
+file _8e5.0.t1-1
+K 19
+prefix-functions.js
+V 16
+file _8e7.0.t1-1
+K 15
+scrub-file.d.ts
+V 16
+file _8e9.0.t1-1
+K 13
+scrub-file.js
+V 16
+file _8eb.0.t1-1
+K 15
+wrap-enums.d.ts
+V 16
+file _8ed.0.t1-1
+K 13
+wrap-enums.js
+V 16
+file _8ef.0.t1-1

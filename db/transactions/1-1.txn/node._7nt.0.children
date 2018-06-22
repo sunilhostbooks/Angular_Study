@@ -1,0 +1,73 @@
+END
+K 9
+README.md
+V 16
+file _7nu.0.t1-1
+K 7
+bundles
+V 15
+dir _7nx.0.t1-1
+K 7
+esm2015
+V 15
+dir _7on.0.t1-1
+K 4
+esm5
+V 15
+dir _7rd.0.t1-1
+K 8
+fesm2015
+V 15
+dir _7tx.0.t1-1
+K 5
+fesm5
+V 15
+dir _7ub.0.t1-1
+K 10
+index.d.ts
+V 16
+file _7up.0.t1-1
+K 12
+package.json
+V 16
+file _7ur.0.t1-1
+K 15
+public_api.d.ts
+V 16
+file _7ut.0.t1-1
+K 11
+router.d.ts
+V 16
+file _7uv.0.t1-1
+K 20
+router.metadata.json
+V 16
+file _7ux.0.t1-1
+K 3
+src
+V 15
+dir _7uz.0.t1-1
+K 7
+testing
+V 15
+dir _7wl.0.t1-1
+K 12
+testing.d.ts
+V 16
+file _7x3.0.t1-1
+K 21
+testing.metadata.json
+V 16
+file _7x5.0.t1-1
+K 7
+upgrade
+V 15
+dir _7x7.0.t1-1
+K 12
+upgrade.d.ts
+V 16
+file _7xn.0.t1-1
+K 21
+upgrade.metadata.json
+V 16
+file _7xp.0.t1-1

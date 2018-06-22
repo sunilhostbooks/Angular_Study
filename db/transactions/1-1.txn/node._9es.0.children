@@ -1,0 +1,49 @@
+END
+K 14
+.coveralls.yml
+V 16
+file _9eu.0.t1-1
+K 9
+.eslintrc
+V 16
+file _9ex.0.t1-1
+K 10
+.npmignore
+V 16
+file _9ez.0.t1-1
+K 11
+.travis.yml
+V 16
+file _9f1.0.t1-1
+K 12
+CHANGELOG.md
+V 16
+file _9f3.0.t1-1
+K 7
+LICENSE
+V 16
+file _9f5.0.t1-1
+K 8
+Makefile
+V 16
+file _9f7.0.t1-1
+K 9
+README.md
+V 16
+file _9f9.0.t1-1
+K 13
+karma.conf.js
+V 16
+file _9fb.0.t1-1
+K 7
+node.js
+V 16
+file _9fd.0.t1-1
+K 12
+package.json
+V 16
+file _9ff.0.t1-1
+K 3
+src
+V 15
+dir _9fh.0.t1-1

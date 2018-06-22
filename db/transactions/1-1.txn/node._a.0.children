@@ -1,0 +1,41 @@
+END
+K 14
+COMMIT_EDITMSG
+V 14
+file _b.0.t1-1
+K 4
+HEAD
+V 14
+file _e.0.t1-1
+K 6
+config
+V 14
+file _g.0.t1-1
+K 11
+description
+V 14
+file _i.0.t1-1
+K 5
+hooks
+V 13
+dir _k.0.t1-1
+K 5
+index
+V 15
+file _14.0.t1-1
+K 4
+info
+V 14
+dir _16.0.t1-1
+K 4
+logs
+V 14
+dir _1a.0.t1-1
+K 7
+objects
+V 14
+dir _1k.0.t1-1
+K 4
+refs
+V 14
+dir _5s.0.t1-1

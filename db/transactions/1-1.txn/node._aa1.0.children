@@ -1,0 +1,61 @@
+END
+K 13
+.editorconfig
+V 16
+file _aa2.0.t1-1
+K 9
+.eslintrc
+V 16
+file _aa5.0.t1-1
+K 10
+.jscs.json
+V 16
+file _aa7.0.t1-1
+K 10
+.npmignore
+V 16
+file _aa9.0.t1-1
+K 11
+.travis.yml
+V 16
+file _aab.0.t1-1
+K 12
+CHANGELOG.md
+V 16
+file _aad.0.t1-1
+K 7
+LICENSE
+V 16
+file _aaf.0.t1-1
+K 8
+Makefile
+V 16
+file _aah.0.t1-1
+K 9
+README.md
+V 16
+file _aaj.0.t1-1
+K 17
+implementation.js
+V 16
+file _aal.0.t1-1
+K 8
+index.js
+V 16
+file _aan.0.t1-1
+K 12
+package.json
+V 16
+file _aap.0.t1-1
+K 11
+polyfill.js
+V 16
+file _aar.0.t1-1
+K 7
+shim.js
+V 16
+file _aat.0.t1-1
+K 4
+test
+V 15
+dir _aav.0.t1-1

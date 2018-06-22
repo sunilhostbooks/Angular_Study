@@ -1,0 +1,9 @@
+END
+K 27
+denormalize-type-references
+V 15
+dir _9ee.0.t1-1
+K 24
+wast-identifier-to-index
+V 15
+dir _9ej.0.t1-1

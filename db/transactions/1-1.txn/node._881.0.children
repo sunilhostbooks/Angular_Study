@@ -1,0 +1,253 @@
+END
+K 9
+README.md
+V 16
+file _882.0.t1-1
+K 20
+cancellationToken.js
+V 16
+file _885.0.t1-1
+K 2
+cs
+V 15
+dir _887.0.t1-1
+K 2
+de
+V 15
+dir _88b.0.t1-1
+K 2
+es
+V 15
+dir _88f.0.t1-1
+K 2
+fr
+V 15
+dir _88j.0.t1-1
+K 2
+it
+V 15
+dir _88n.0.t1-1
+K 2
+ja
+V 15
+dir _88r.0.t1-1
+K 2
+ko
+V 15
+dir _88v.0.t1-1
+K 8
+lib.d.ts
+V 16
+file _88z.0.t1-1
+K 12
+lib.dom.d.ts
+V 16
+file _891.0.t1-1
+K 21
+lib.dom.iterable.d.ts
+V 16
+file _893.0.t1-1
+K 26
+lib.es2015.collection.d.ts
+V 16
+file _895.0.t1-1
+K 20
+lib.es2015.core.d.ts
+V 16
+file _897.0.t1-1
+K 15
+lib.es2015.d.ts
+V 16
+file _899.0.t1-1
+K 25
+lib.es2015.generator.d.ts
+V 16
+file _89b.0.t1-1
+K 24
+lib.es2015.iterable.d.ts
+V 16
+file _89d.0.t1-1
+K 23
+lib.es2015.promise.d.ts
+V 16
+file _89f.0.t1-1
+K 21
+lib.es2015.proxy.d.ts
+V 16
+file _89h.0.t1-1
+K 23
+lib.es2015.reflect.d.ts
+V 16
+file _89j.0.t1-1
+K 22
+lib.es2015.symbol.d.ts
+V 16
+file _89l.0.t1-1
+K 32
+lib.es2015.symbol.wellknown.d.ts
+V 16
+file _89n.0.t1-1
+K 29
+lib.es2016.array.include.d.ts
+V 16
+file _89p.0.t1-1
+K 15
+lib.es2016.d.ts
+V 16
+file _89r.0.t1-1
+K 20
+lib.es2016.full.d.ts
+V 16
+file _89t.0.t1-1
+K 15
+lib.es2017.d.ts
+V 16
+file _89v.0.t1-1
+K 20
+lib.es2017.full.d.ts
+V 16
+file _89x.0.t1-1
+K 20
+lib.es2017.intl.d.ts
+V 16
+file _89z.0.t1-1
+K 22
+lib.es2017.object.d.ts
+V 16
+file _8a1.0.t1-1
+K 28
+lib.es2017.sharedmemory.d.ts
+V 16
+file _8a3.0.t1-1
+K 22
+lib.es2017.string.d.ts
+V 16
+file _8a5.0.t1-1
+K 27
+lib.es2017.typedarrays.d.ts
+V 16
+file _8a7.0.t1-1
+K 15
+lib.es2018.d.ts
+V 16
+file _8a9.0.t1-1
+K 20
+lib.es2018.full.d.ts
+V 16
+file _8ab.0.t1-1
+K 20
+lib.es2018.intl.d.ts
+V 16
+file _8ad.0.t1-1
+K 23
+lib.es2018.promise.d.ts
+V 16
+file _8af.0.t1-1
+K 22
+lib.es2018.regexp.d.ts
+V 16
+file _8ah.0.t1-1
+K 12
+lib.es5.d.ts
+V 16
+file _8aj.0.t1-1
+K 12
+lib.es6.d.ts
+V 16
+file _8al.0.t1-1
+K 21
+lib.esnext.array.d.ts
+V 16
+file _8an.0.t1-1
+K 29
+lib.esnext.asynciterable.d.ts
+V 16
+file _8ap.0.t1-1
+K 15
+lib.esnext.d.ts
+V 16
+file _8ar.0.t1-1
+K 20
+lib.esnext.full.d.ts
+V 16
+file _8at.0.t1-1
+K 19
+lib.scripthost.d.ts
+V 16
+file _8av.0.t1-1
+K 18
+lib.webworker.d.ts
+V 16
+file _8ax.0.t1-1
+K 2
+pl
+V 15
+dir _8az.0.t1-1
+K 13
+protocol.d.ts
+V 16
+file _8b3.0.t1-1
+K 5
+pt-br
+V 15
+dir _8b5.0.t1-1
+K 2
+ru
+V 15
+dir _8b9.0.t1-1
+K 2
+tr
+V 15
+dir _8bd.0.t1-1
+K 6
+tsc.js
+V 16
+file _8bh.0.t1-1
+K 11
+tsserver.js
+V 16
+file _8bj.0.t1-1
+K 20
+tsserverlibrary.d.ts
+V 16
+file _8bl.0.t1-1
+K 18
+tsserverlibrary.js
+V 16
+file _8bn.0.t1-1
+K 13
+typesMap.json
+V 16
+file _8bp.0.t1-1
+K 15
+typescript.d.ts
+V 16
+file _8br.0.t1-1
+K 13
+typescript.js
+V 16
+file _8bt.0.t1-1
+K 23
+typescriptServices.d.ts
+V 16
+file _8bv.0.t1-1
+K 21
+typescriptServices.js
+V 16
+file _8bx.0.t1-1
+K 19
+typingsInstaller.js
+V 16
+file _8bz.0.t1-1
+K 13
+watchGuard.js
+V 16
+file _8c1.0.t1-1
+K 5
+zh-cn
+V 15
+dir _8c3.0.t1-1
+K 5
+zh-tw
+V 15
+dir _8c7.0.t1-1

@@ -1,0 +1,17 @@
+END
+K 15
+define-property
+V 15
+dir _bdg.0.t1-1
+K 22
+is-accessor-descriptor
+V 15
+dir _bdr.0.t1-1
+K 18
+is-data-descriptor
+V 15
+dir _be1.0.t1-1
+K 13
+is-descriptor
+V 15
+dir _beb.0.t1-1

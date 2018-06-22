@@ -1,0 +1,33 @@
+END
+K 10
+.npmignore
+V 16
+file _bcc.0.t1-1
+K 10
+History.md
+V 16
+file _bcf.0.t1-1
+K 8
+Makefile
+V 16
+file _bch.0.t1-1
+K 9
+Readme.md
+V 16
+file _bcj.0.t1-1
+K 14
+component.json
+V 16
+file _bcl.0.t1-1
+K 8
+index.js
+V 16
+file _bcn.0.t1-1
+K 12
+package.json
+V 16
+file _bcp.0.t1-1
+K 4
+test
+V 15
+dir _bcr.0.t1-1

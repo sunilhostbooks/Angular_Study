@@ -1,0 +1,29 @@
+END
+K 7
+AUTHORS
+V 16
+file _9pe.0.t1-1
+K 12
+CHANGELOG.md
+V 16
+file _9ph.0.t1-1
+K 7
+LICENSE
+V 16
+file _9pj.0.t1-1
+K 9
+README.md
+V 16
+file _9pl.0.t1-1
+K 3
+bin
+V 15
+dir _9pn.0.t1-1
+K 4
+dist
+V 15
+dir _9px.0.t1-1
+K 12
+package.json
+V 16
+file _9qd.0.t1-1
